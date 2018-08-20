@@ -1,4 +1,4 @@
-baseURL = "https://blog.jan-steinke.de/"
+baseURL = "https://blog.jan-steinke.de/de"
 languageCode = "de-de"
 title = "Eine weitere Selbstdarstellung"
 theme = "ananke"
@@ -9,7 +9,7 @@ copyright = "alles meins"
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
     weight = 1
-    baseURL = "https://blog.jan-steinke.de/"
+    baseURL = "https://blog.jan-steinke.de/de"
   [languages.en]
     title = "Just another grandstanding"
     weight = 2
