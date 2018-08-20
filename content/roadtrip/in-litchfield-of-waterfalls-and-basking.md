@@ -1,0 +1,77 @@
+---
+author: Jan
+date: 2013-10-08 12:53:44
+guid: http://jan-steinke.de/?page_id=1003
+id: 1003
+post_to_facebook_timeline:
+- '1'
+- '1'
+readability_ARI:
+- '8'
+- '8'
+readability_CLI:
+- '7.9'
+- '7.9'
+readability_LIX:
+- '28.9'
+- '28.9'
+title: In Litchfield – Of Waterfalls and Basking
+url: /in-litchfield-of-waterfalls-and-basking
+word_stats_cached:
+- '1'
+- '1'
+word_stats_keywords:
+- s:605:"a:34:{s:10:"litchfield";i:8;s:5:"night";i:3;s:4:"time";i:7;s:7:"decided";i:5;s:6:"little";i:4;s:8:"campsite";i:5;s:7:"caption";i:18;s:10:"attachment";i:9;s:5:"align";i:9;s:11:"aligncenter";i:9;s:5:"width";i:9;s:4:"park";i:8;s:4:"just";i:7;s:10:"impressive";i:6;s:6:"kakadu";i:4;s:7:"several";i:5;s:4:"stop";i:3;s:8:"magnetic";i:6;s:8:"termites";i:8;s:4:"like";i:4;s:4:"find";i:3;s:6:"mounds";i:5;s:6:"meters";i:3;s:5:"sight";i:3;s:5:"buley";i:3;s:8:"rockhole";i:3;s:5:"water";i:5;s:6:"really";i:3;s:8:"swimming";i:4;s:10:"waterfalls";i:3;s:5:"spend";i:3;s:8:"actually";i:3;s:5:"falls";i:3;s:4:"road";i:4;}";
+- s:605:"a:34:{s:10:"litchfield";i:8;s:5:"night";i:3;s:4:"time";i:7;s:7:"decided";i:5;s:6:"little";i:4;s:8:"campsite";i:5;s:7:"caption";i:18;s:10:"attachment";i:9;s:5:"align";i:9;s:11:"aligncenter";i:9;s:5:"width";i:9;s:4:"park";i:8;s:4:"just";i:7;s:10:"impressive";i:6;s:6:"kakadu";i:4;s:7:"several";i:5;s:4:"stop";i:3;s:8:"magnetic";i:6;s:8:"termites";i:8;s:4:"like";i:4;s:4:"find";i:3;s:6:"mounds";i:5;s:6:"meters";i:3;s:5:"sight";i:3;s:5:"buley";i:3;s:8:"rockhole";i:3;s:5:"water";i:5;s:6:"really";i:3;s:8:"swimming";i:4;s:10:"waterfalls";i:3;s:5:"spend";i:3;s:8:"actually";i:3;s:5:"falls";i:3;s:4:"road";i:4;}";
+word_stats_word_count:
+- '1003'
+- '1003'
+---
+
+[Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)
+
+Previous: [To Litchfield – The Wicked Experience](https://jan-steinke.de/wordpress/en/to-litchfield-the-wicked-experience/)
+
+The first night camping was surprisingly easy. Everyone woke up more or less on time. Some of us had difficulties keeping the time that we decided on the night before, and I being me got a little nervous not being in time. However, after finishing their coffee everyone was ready to board the bus and we managed to leave the campsite only with a slight delay. We left most of our stuff in the girls&#8217; tent since we would spent the next night on the very same campsite.
+
+<img class="aligncenter size-large wp-image-1406" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_640407203633-1024x683.jpg" alt="IMG_6404" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_640407203633-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_640407203633-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_640407203633-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_640407203633-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+
+The Park was just plain impressive, we decided to go to Litchfield instead of Kakadu National Park out of several reasons. Although Kakadu is the better known park and is said to have impressive aboriginal cave art, we decided to go to the smaller of the two parks. The original plan included to go to Kakadu but many locals in Darwin told us that Litchfield is nicer and that they usually go to Litchfield for weekends. Additionally, Kakadu seemed to be just too big for the short time we had. The tickets usually are valid for 2 weeks which gives you already an idea on how vast it is. In contrast, Litchfield is just fraction of the size, we managed to see most of the accessible parts in a day and the entrance was free (YIIHAAA).<figure id="attachment_1338" style="width: 427px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1338" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6428.jpg" alt="Gigantic Termite Mount" width="427" height="640" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6428.jpg 427w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6428-200x300.jpg 200w" sizes="(max-width: 427px) 85vw, 427px" /><figcaption class="wp-caption-text">Gigantic Termite Mount</figcaption></figure> 
+
+The first stop in the park was the magnetic termites. We were joking in the car trying to make up stories why they might be called magnetic termites. Maybe they are called like that because they attract people and when we get too close they eat us alive. Nope, that&#8217;s definitely not the reason. We will find out. First of all we saw two giant termite mounds right at the car park that were more than 4 meters high. Quite impressive if you keep in mind that termites are ant-like, small insects, that crawl around on the floor. We made sure that we get some awesome shots of the mounds before we proceeded to the actual magnetic termites. We were fortunate enough that a group of seniors just happened to have a tour guide who explained everything about the sight. The termites in the giant mounds left it already several years ago (I think it was a decade). Furthermore, the tour guide lifted the mystery about the magnetic termites. They build their mounds aligned to the magnetic field of the Earth, from north to south. That has the advantage that they escape the mid day heat while the sun is at its highest. The field on which the termites build their mounds felt a little bit like a grave yard with these perfectly aligned tombstone-like structures.<figure id="attachment_1339" style="width: 640px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1339" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6453.jpg" alt="Magnetic Termites" width="640" height="427" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6453.jpg 640w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6453-300x200.jpg 300w" sizes="(max-width: 640px) 85vw, 640px" /><figcaption class="wp-caption-text">Magnetic Termites</figcaption></figure> 
+
+At that point we were already feeling the heat again and it wasn&#8217;t even the hottest part of the day yet. We were craving for a cool pool to relax our limbs in. Luckily the next sight was promising something similar. The Buley Rockhole was our next stop in the park. We walked the small path from the car park and as soon as Jamie saw the water he was out of sight. We got rid of shirt and shoes and jumped into the refreshing water, Jamie somewhere further upstream. We really enjoyed it, the weather was sunny and hot, the water was perfectly tempered and runs over several 100 meters of rock before it disappears in the jungle. The rocks formed several smaller and bigger holes that were just perfect for swimming, jumping and relaxing, little waterfalls ran into the pools on one side. We spend several hours in the water before we decided to see more from the park.<figure id="attachment_1340" style="width: 427px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1340" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6483.jpg" alt="The Buley Hole" width="427" height="640" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6483.jpg 427w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6483-200x300.jpg 200w" sizes="(max-width: 427px) 85vw, 427px" /><figcaption class="wp-caption-text">The Buley Hole</figcaption></figure> 
+
+The Buley Rockhole, after winding through a bit of forest, was actually turning into a huge waterfall. The most impressive that I have ever seen in my life. I haven&#8217;t seen many but this was just pure beauty and another opportunity for a perfect swim. We plunged around, jumped into the water and spend some more time.<figure id="attachment_1341" style="width: 427px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1341" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6560.jpg" alt="Florence Falls" width="427" height="640" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6560.jpg 427w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6560-200x300.jpg 200w" sizes="(max-width: 427px) 85vw, 427px" /><figcaption class="wp-caption-text">Florence Falls</figcaption></figure> 
+
+We were happy to see that most of the attractions in Litchfield seem to be waterfalls so we headed our way and went to the next one. It was a little bummer to actually find out that that one wasn&#8217;t accessible for swimming. However, it gave an impressive view on the waterfall as well as the surrounding nature.
+
+<div id='gallery-2' class='gallery galleryid-1003 gallery-columns-2 gallery-size-medium'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6605-300x200.jpg" class="attachment-medium size-medium" alt="" aria-describedby="gallery-2-1343" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6605-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6605.jpg 640w" sizes="(max-width: 300px) 85vw, 300px" />
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-1343'> Tolmer Falls </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6591-300x200.jpg" class="attachment-medium size-medium" alt="" aria-describedby="gallery-2-1342" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6591-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6591.jpg 640w" sizes="(max-width: 300px) 85vw, 300px" />
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-1342'> View from Tolmer Falls </figcaption></figure>
+</div>
+
+A look at our watch revealed that it was getting late and sun set was only in a few ours, getting back to the campsite was already an hour trip. Since we now spend most of our time swimming and hunting waterfalls we decided to see the cultural side of Litchfield, an old tin mine at the northern tip. We were expecting an impressive mine and were a bit confused when we missed it and actually went too far. We turned around and find a tiny dirt road leading into the bush. The girls were concerned about the insurance since we weren&#8217;t covered for unsealed roads. However, the road to the tin mine on the map was promising only a short trip plus the road looked fit for our car. It was all okay, the road was really just a couple of hundred meters, however, the tin mine was merely a house with a hole in the ground. During the active time of the mine the ground was covered with tin plates that the workers collected, broke into pieces and sold.<figure id="attachment_1344" style="width: 640px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1344" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6618.jpg" alt="A car wreck next to the mine" width="640" height="427" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6618.jpg 640w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6618-300x200.jpg 300w" sizes="(max-width: 640px) 85vw, 640px" /><figcaption class="wp-caption-text">A car wreck next to the mine</figcaption></figure> 
+
+The last stop for this day was checked, Orion took over the driving and brought us safely home. It was really quite something to drive, it didn&#8217;t feel that long when we came here since we stopped every 20-15 minutes. Back at the campsite we topped up for gas, and got a jerry can for free as the woman at the countered didn&#8217;t seem to know what she was doing, but we only recognized that later and were even more happy.<figure id="attachment_1345" style="width: 640px" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1345" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6665.jpg" alt="Bird feeding on the campsite" width="640" height="427" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6665.jpg 640w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6665-300x200.jpg 300w" sizes="(max-width: 640px) 85vw, 640px" /><figcaption class="wp-caption-text">Bird feeding on the campsite</figcaption></figure> 
+
+<span style="line-height: 1.5;">Next: <a href="https://jan-steinke.de/wordpress/en/mataranka-swimming-with-crocodiles/">Mataranka – Swimming with crocodiles</a></span>

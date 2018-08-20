@@ -1,0 +1,51 @@
+---
+author: Jan
+date: 2013-10-11 12:20:16
+fb_author_post_id:
+- 117927857710202005325072909
+- 117927857710202005325072909
+guid: http://jan-steinke.de/?page_id=1050
+id: 1050
+readability_ARI:
+- '5.8'
+- '5.8'
+readability_CLI:
+- '6.5'
+- '6.5'
+readability_LIX:
+- '28'
+- '28'
+title: Mataranka – Swimming with crocodiles
+url: /mataranka-swimming-with-crocodiles
+word_stats_cached:
+- '1'
+- '1'
+word_stats_keywords:
+- s:299:"a:17:{s:4:"went";i:10;s:8:"vacation";i:4;s:9:"mataranka";i:3;s:4:"trip";i:3;s:4:"like";i:3;s:6:"things";i:3;s:5:"point";i:3;s:6:"spring";i:3;s:6:"stayed";i:3;s:4:"swim";i:3;s:7:"springs";i:5;s:4:"felt";i:4;s:7:"caption";i:6;s:10:"attachment";i:3;s:5:"align";i:3;s:9:"alignnone";i:3;s:5:"width";i:3;}";
+- s:299:"a:17:{s:4:"went";i:10;s:8:"vacation";i:4;s:9:"mataranka";i:3;s:4:"trip";i:3;s:4:"like";i:3;s:6:"things";i:3;s:5:"point";i:3;s:6:"spring";i:3;s:6:"stayed";i:3;s:4:"swim";i:3;s:7:"springs";i:5;s:4:"felt";i:4;s:7:"caption";i:6;s:10:"attachment";i:3;s:5:"align";i:3;s:9:"alignnone";i:3;s:5:"width";i:3;}";
+word_stats_word_count:
+- '847'
+- '847'
+---
+
+[Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)
+
+Previous:  [In Litchfield – Of Waterfalls and basking](https://jan-steinke.de/wordpress/en/in-litchfield-of-waterfalls-and-basking/)
+
+The sun went up on one of our serious driving days. We had a long ride ahead due to out tight schedule. University didn&#8217;t sleep for us and we had to be back in time for Lin to finish her essay that was due on the last friday of our vacation. However, from our Campsite near Litchfield we had around 360km to our next stop in Mataranka. The 4h drive was a good preparation of what was still lying ahead of us. We only had 1 longer stop in Katherine to stock up some of our groceries and tell the world where we were (No mobile reception since Darwin).
+
+<img class="aligncenter size-large wp-image-1348" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6727-1024x683.jpg" alt="IMG_6727" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6727-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6727-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6727-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6727-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+
+When 5 people who never met before get together and decide to go on a vacation for 2 weeks it is already predestined that it won&#8217;t be as smooth as you would wish. In Katherine we had an outbreak of some sort that was related to that issue. During the shopping it became clear that the women had a different idea of how this trip should look like. I am not going into details here. The fact is that we should have clarified in the beginning how things should be divided, what we need for this vacation and what we expect from it. At this point I will also try to make some suggestions and give advice on how to avoid a clash. Don&#8217;t go on a vacation with people you don&#8217;t know if you feel uncomfortable of leaving your comfort zone. It is really unpleasant for the others and might not change anything for you. If you still decide to go on an adventure then do try to be open for new things. Exploring and trying new stuff is valuable, getting used to change makes you flexible and functional in new situations. If there is one thing I learned from leaving Bremen behind in 2010 than it is that. As a postcard on a very good friend&#8217;s desk says &#8220;The best journeys are not always in straight lines&#8221; and I couldn&#8217;t find words to bring it more precisely down to the point. Another advice is one that I learned for myself from talking to Jamie on this trip. Being stubborn is not helping at all. Mind-blowing I know. But it is especially important if you don&#8217;t want to ruin a trip.
+
+Enough of this now and back to the journey that happened in very straight lines.  We decided from that point on to split everything up and do groceries separately as that was the main issue. We hopped all onto the bus and went south again until we finally arrived in Mataranka. Mataranka was known for its hot spring and that was what we enjoyed that day. We guys got of the van, took our shorts and towels and went to the spring while the gals stayed at the van. The spring was awesome and probably the most relaxing swim I ever had. When I was in the Philippines I went with Schirin to Hot Springs but those were really quite hot and you felt exhausted and sleepy afterwards. This one was completely different. It was the perfect temperature. However, since we only had one day in the city we decided to go for a walk around to see some other things.<figure id="attachment_1349" style="width: 840px" class="wp-caption aligncenter">
+
+<img class="size-large wp-image-1349" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg" alt="Treating it like an inventory list." width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Treating it like an inventory list.</figcaption></figure> <figure id="attachment_1350" style="width: 840px" class="wp-caption aligncenter"><img class="size-large wp-image-1350" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg" alt="No risk, no fun" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">No risk, no fun</figcaption></figure> 
+
+The next thing was the river that the hot springs poured in to. A sign told us that it was &#8220;harmless&#8221; to swim in. After the rainy season there might be some saltwater crocodiles in there but usually they keep it clean. However, without much ado we went down to the water and took a swim. It was weird. Although we knew that there shouldn&#8217;t be any saltwater crocs it was still somehow haunting us. After a while we also had enough of that and went on. We found signs to a waterhole around 2km from the springs. Stevie&#8217;s hole it was called and the path to it was just dirt and dead trees, while only a few meters to the side it was lush and green vegetation. After 20 or 30 minutes we arrived at the waterhole and it felt a little bit like paradise. For the first time we were completely alone, and no tourists spoilt the experience. On this hole was the same warning as at the river (by the way: no tourists neither). However, it felt more secure because you could see the banks and all access to the water. We went around and checked everything before we went bathing. It was awesome. We stayed there for a couple more hours and enjoyed the nature.<figure id="attachment_1352" style="width: 840px" class="wp-caption aligncenter">
+
+<img class="wp-image-1352 size-large" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg" alt="IMG_6819" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Swimming in Paradise</figcaption></figure> 
+
+On our way back to the van we stopped at the hot springs where we met the girls, stayed there for a bit and then end the day. After dinner they went back to the springs while I went to bed. I felt super exhausted but happy about everything we so until that day.
+
+Next:  [Devil’s Marbles – A day in the car to see the sunset](https://jan-steinke.de/wordpress/en/devils-marbles-a-day-in-the-car-to-see-the-sunset/)
