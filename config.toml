@@ -9,7 +9,9 @@ copyright = "alles meins"
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
     weight = 1
+    languageName = "Deutsch"
   [languages.en]
     title = "Just another grandstanding"
     weight = 2
     copyright = "Everything is mine"
+    languageName = "English"
