@@ -1,14 +1,15 @@
-baseURL = "https://blog.jan-steinke.de/"
 languageCode = "en-us"
 title = "Just another grandstanding"
 theme = "ananke"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 copyright = "Everything is mine"
 
 [languages]
   [languages.en]
     title = "Just another grandstanding"
     weight = 1
+    baseURL = "https://blog.jan-steinke.de/en"
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
     weight = 2
+    baseURL = "https://blog.jan-steinke.de/"
