@@ -1,14 +1,16 @@
-languageCode = "en-us"
-title = "Just another grandstanding"
+baseURL = "https://blog.jan-steinke.de/"
+languageCode = "de-de"
+title = "Eine weitere Selbstdarstellung"
 theme = "ananke"
 DefaultContentLanguage = "de"
-copyright = "Everything is mine"
+copyright = "alles meins"
 
 [languages]
   [languages.en]
     title = "Just another grandstanding"
     weight = 1
     baseURL = "https://blog.jan-steinke.de/en"
+    copyright = "Everything is mine"
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
     weight = 2
