@@ -6,12 +6,12 @@ DefaultContentLanguage = "de"
 copyright = "alles meins"
 
 [languages]
-  [languages.en]
-    title = "Just another grandstanding"
-    weight = 1
-    baseURL = "https://blog.jan-steinke.de/en"
-    copyright = "Everything is mine"
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
-    weight = 2
+    weight = 1
     baseURL = "https://blog.jan-steinke.de/"
+  [languages.en]
+    title = "Just another grandstanding"
+    weight = 2
+    baseURL = "https://blog.jan-steinke.de/en"
+    copyright = "Everything is mine"
