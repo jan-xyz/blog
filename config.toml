@@ -5,6 +5,10 @@ theme = "ananke"
 DefaultContentLanguage = "de"
 copyright = "alles meins"
 
+[params]
+  twitter = "https://twitter.com/janxyz"
+  github = "https://github.com/jan-xyz"
+
 [languages]
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
