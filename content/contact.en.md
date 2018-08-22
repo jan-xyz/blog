@@ -6,17 +6,14 @@ title: Contact
 menu: "main"
 ---
 
-Name: Jan S.[<img class="alignright wp-image-1154" src="https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg" alt="Profile" width="137" height="137" />](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315.jpg)
+![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg)
 
-Current: Hamburg, Germany
-
-Origin: Bremen, Deutschland
-
-Former: Philippines, The Netherlands, Australia
+* Name: Jan S.
+* Currently: Hamburg, Germany
+* From: Bremen, Deutschland
+* Previously: Philippines, The Netherlands, Australia
 
 E-Mail: <jan.steinke@gmail.com>
-
-facebook: <a href="http://facebook.com/jan.steinke" target="_blank">facebook.com/jan.steinke</a>
 
 Dear Visitor,
 

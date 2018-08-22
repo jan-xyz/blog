@@ -6,17 +6,14 @@ title: Kontakt
 menu: "main"
 ---
 
-Name: Jan S.[<img class="alignright wp-image-1152" src="https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg" alt="Profil" width="137" height="137" />](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315.jpg)
+![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg)
 
-Ort: Hamburg, Deutschland
-
-Heimat: Bremen, Deutschland
-
-Vorher: Philippinen, Niederlands, Australien
+* Name: Jan S.
+* Ort: Hamburg, Deutschland
+* Heimat: Bremen, Deutschland
+* Vorher: Philippinen, Niederlande, Australien
 
 E-Mail: <jan.steinke@gmail.com>
-
-facebook: <a href="http://facebook.com/jan.steinke" target="_blank">facebook.com/jan.steinke</a>
 
 Hallo liebe Besucher,Ich hab diesen Blog in 2010 gestartet, als es für mich das erste mal hieß für längere Zeit aus Europa zu verschwinden. Um meine Eltern, Freunde und Bekannte auf dem Laufenden zu halten, hab ich mich kurzerhand dazu entschieden diesen Blog zu starten.
 
