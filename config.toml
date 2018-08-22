@@ -4,6 +4,7 @@ title = "Eine weitere Selbstdarstellung"
 theme = "ananke"
 DefaultContentLanguage = "de"
 copyright = "alles meins"
+sectionPagesMenu = "main"
 
 [params]
   twitter = "https://twitter.com/janxyz"

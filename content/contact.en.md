@@ -2,8 +2,8 @@
 author: Jan
 date: 2013-08-03 08:02:37
 id: 846
-ref: contact
 title: Contact
+menu: "main"
 ---
 
 Name: Jan S.[<img class="alignright wp-image-1154" src="https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg" alt="Profile" width="137" height="137" />](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315.jpg)
