@@ -7,9 +7,9 @@ title: Der Stuart Highway
 
 Es war ein regnerischer Samstag morgen in Adelaide. Zwei Männer warten in einem Auto im Stadtzentrum von Adelaide, vor den Türen der Studentenunterkunft der Universität in der Grote Street. Ich war einer von ihnen, der andere Mann ist Mitbewohner Richard. Wir haben auf Maddy gewartet, einer Studentin aus Newcastle, UK. Mein Mitbewohner tat uns den gefallen uns an dem nassen und tristen Morgen zum Flughafen zu fahren. Der Flughafen war der Treffpunkt für 5 Leute (Lin, Maddy, Orion, Jamie und ich) an dem besagten Tag. Wir wollten so viel wie möglich in den zwei Wochen Semesterferien von Australien sehen. Wir waren alle überglücklich eine Pause vom Alltag zu bekommen. Wohin ging es für uns? Unser Ziel an dem Samstag morgen war Darwin, NT. Eine Stadt an der Nordspitze Australiens, die Haupstadt des Staates Northern Territory. Der Grund für unsere Zusammenkunft war ein gemeinsames Ziel: Im Norden starten, im Süden ankommen - über Land. Im folgenden Bericht werde ich beschreiben und wiederbeleben was ich in den zwei Wochen erlebt habe. Es waren atemberaubende Wunder der Natur und die kurze Reise war gefüllt mit Spaß, Wut, Müdigkeit, Aktivität, Langeweile und Aufregung. Ich hab viel für die Zukunft gelernt und hatte erleuchtende Diskussionen mit den Leuten, die ich getroffen habe.
 
-Tag 1: [Darwin - Krokodilfleisch]({{< relref path="/roadtrip/darwin-tasting-crocodile.md" lang="de">}})
+Tag 1: [Darwin - Krokodilfleisch]()
 
-Tag 2: [Darwin - Der Mindil Beach]({{< relref path="/roadtrip/darwin-mindil-beach.md" lang="de">}})
+Tag 2: [Darwin - Der Mindil Beach]()
 
 Tag 3: [Nach Litchfield - Das Wicked Erlebnis](https://jan-steinke.de/nach-litchfield-das-wicked-erlebnis/)
 
