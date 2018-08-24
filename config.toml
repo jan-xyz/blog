@@ -5,6 +5,7 @@ theme = "ananke"
 DefaultContentLanguage = "de"
 copyright = "alles meins"
 sectionPagesMenu = "main"
+Paginate = 9
 
 [params]
   twitter = "https://twitter.com/janxyz"
