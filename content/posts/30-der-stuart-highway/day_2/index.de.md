@@ -1,31 +1,7 @@
 ---
 author: Jan
 date: 2013-10-06 10:26:59
-fb_author_post_id:
-- 117927857710201971714032654
-- 117927857710201971714032654
-guid: http://jan-steinke.de/?page_id=961
-id: 961
-readability_ARI:
-- '8'
-- '8'
-readability_CLI:
-- '10.9'
-- '10.9'
-readability_LIX:
-- '30.8'
-- '30.8'
 title: Darwin – Der Mindil Beach
-url: /darwin-der-mindil-beach
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:71:"a:4:{s:6:"gingen";i:4;s:5:"haben";i:3;s:4:"paar";i:3;s:6:"strand";i:3;}";
-- s:71:"a:4:{s:6:"gingen";i:4;s:5:"haben";i:3;s:4:"paar";i:3;s:6:"strand";i:3;}";
-word_stats_word_count:
-- '197'
-- '197'
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/der-stuart-highway/)
@@ -34,7 +10,7 @@ Vorher: [Darwin &#8211; Krokodilfleisch](https://jan-steinke.de/wordpress/darwin
 
 Die erste Nacht außerhalb von Adelaide. Wir alle wachten munter und bereit für das Abenteuer das uns bevor steht auf. Der Tag war ohne spezielle Ereignisse und wir gingen nur ins Wellenbad, da es zu gefährlich ist im Ozean schwimmen zu gehen (Haie, Krokodile etc.) und haben den Rest des Tages am Hostel Pool verbracht. Am Abend gingen wir zu einem Strandmarkt ein paar Minuten außerhalb von Darwin. Es war eine gute Gelegenheit ein paar Souvenirs zu bekommen(Ich hab mir nichts gekauft). Jamie, unser Junge aus Newcastle, hat sich einen Hut aus alter Road Train(LKW)Plane gekauft.<figure id="attachment_968" style="width: 300px" class="wp-caption aligncenter">
 
-<img class="wp-image-968 size-medium" src="https://jan-steinke.de/wordpress/wp-content/uploads/2013/10/IMG_6119-300x200.jpg" alt="Jamie's Hat" width="300" height="200" /><figcaption class="wp-caption-text">Jamies Hut</figcaption></figure> 
+<img class="wp-image-968 size-medium" src="https://jan-steinke.de/wordpress/wp-content/uploads/2013/10/IMG_6119-300x200.jpg" alt="Jamie's Hat" width="300" height="200" /><figcaption class="wp-caption-text">Jamies Hut</figcaption></figure>
 
 In zukünftigen Bildern wird er öfter mal mit dem Hut auftauchen. Wir haben noch ein paar Stunden auf dem Markt verbracht und der Livemusik zugehört. Hinterher gingen Jamie, Orion und ich an den Strand und Lin und Maddy gingen nach Hause. Der Strand war übersät mit kleinen Einsiedlerkrebsen, die vor uns weg liefen als wir Richtung Stadtzentrum marschierten. Es wirkte ein bisschen als ob der ganze Strand in Bewegung wäre. Zurück im Hostel haben wir noch ein bisschen Zeit damit tot geschlagen Bilder am Pool zu machen.
 

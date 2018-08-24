@@ -1,34 +1,7 @@
 ---
 author: Jan
 date: 2013-10-23 12:11:31
-guid: http://jan-steinke.de/?page_id=1079
-id: 1079
-post_to_facebook_page:
-- '0'
-- '0'
-post_to_facebook_timeline:
-- '0'
-- '0'
-readability_ARI:
-- '5.6'
-- '5.6'
-readability_CLI:
-- '6.4'
-- '6.4'
-readability_LIX:
-- '29.8'
-- '29.8'
-title: King&#8217;s Canyon &#8211; A thunderstorm in the evening
-url: /kings-canyon-a-thunderstorm-in-the-evening
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:55:"a:3:{s:6:"wanted";i:3;s:6:"canyon";i:7;s:4:"time";i:4;}";
-- s:55:"a:3:{s:6:"wanted";i:3;s:6:"canyon";i:7;s:4:"time";i:4;}";
-word_stats_word_count:
-- '309'
-- '309'
+title: King's Canyon - A thunderstorm in the evening
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)

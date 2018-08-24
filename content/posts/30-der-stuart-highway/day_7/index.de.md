@@ -1,38 +1,7 @@
 ---
 author: Jan
 date: 2016-02-14 06:38:29
-fb_author_post_id:
-- 117927857710202099595429609
-- 117927857710202099595429609
-fb_fan_page_post_id:
-- 336947102991759667852213234578
-- 336947102991759667852213234578
-guid: http://jan-steinke.de/wordpress/?page_id=1609
-id: 1609
-readability_ARI:
-- '5.5'
-- '5.5'
-readability_CLI:
-- '6.9'
-- '6.9'
-readability_LIX:
-- '27.3'
-- '27.3'
-title: Alice Springs &#8211; Auffrischen und weiter geht&#8217;s!
-url: /alice-springs-auffrischen-und-weiter-gehts
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- 's:172:"a:10:{s:4:"stop";i:4;s:5:"alice";i:4;s:7:"springs";i:4;s:6:"really";i:4;s:6:"king''s";i:3;s:6:"canyon";i:5;s:5:"uluru";i:3;s:5:"night";i:3;s:7:"morning";i:3;s:4:"rock";i:3;}";
-
-  '
-- 's:172:"a:10:{s:4:"stop";i:4;s:5:"alice";i:4;s:7:"springs";i:4;s:6:"really";i:4;s:6:"king''s";i:3;s:6:"canyon";i:5;s:5:"uluru";i:3;s:5:"night";i:3;s:7:"morning";i:3;s:4:"rock";i:3;}";
-
-  '
-word_stats_word_count:
-- '509'
-- '509'
+title: Alice Springs - Auffrischen und weiter geht's!
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)
@@ -46,8 +15,8 @@ Stop 1: Wycliffe Well claims to be Australia&#8217;s premier UFO spot. Whatever 
 <img class="aligncenter size-large wp-image-1362" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7099-1024x683.jpg" alt="IMG_7099" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7099-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7099-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7099-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7099-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 Stop 2: We visited a Mango Farm. The guys got fresh mango ice cream, had a chat with the girl behind the counter aaand we took off again. We still needed to get to Alice Springs that day.[
-  
-](https://jan-steinke.de/wordpress/wp-content/uploads/2013/10/IMG_7103.jpg) 
+
+](https://jan-steinke.de/wordpress/wp-content/uploads/2013/10/IMG_7103.jpg)
 
 <img class="aligncenter size-large wp-image-1363" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7103-1024x683.jpg" alt="IMG_7103" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7103-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7103-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7103-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7103-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 

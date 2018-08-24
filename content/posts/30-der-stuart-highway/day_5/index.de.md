@@ -1,31 +1,7 @@
 ---
 author: Jan
 date: 2016-02-14 06:49:45
-fb_author_post_id:
-- 117927857710202005325072909
-- 117927857710202005325072909
-guid: http://jan-steinke.de/wordpress/?page_id=1617
-id: 1617
-readability_ARI:
-- '5.8'
-- '5.8'
-readability_CLI:
-- '6.5'
-- '6.5'
-readability_LIX:
-- '28'
-- '28'
-title: Mataranka &#8211; Planschen mit Krokodilen
-url: /mataranka-planschen-mit-krokodilen
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:299:"a:17:{s:4:"went";i:10;s:8:"vacation";i:4;s:9:"mataranka";i:3;s:4:"trip";i:3;s:4:"like";i:3;s:6:"things";i:3;s:5:"point";i:3;s:6:"spring";i:3;s:6:"stayed";i:3;s:4:"swim";i:3;s:7:"springs";i:5;s:4:"felt";i:4;s:7:"caption";i:6;s:10:"attachment";i:3;s:5:"align";i:3;s:9:"alignnone";i:3;s:5:"width";i:3;}";
-- s:299:"a:17:{s:4:"went";i:10;s:8:"vacation";i:4;s:9:"mataranka";i:3;s:4:"trip";i:3;s:4:"like";i:3;s:6:"things";i:3;s:5:"point";i:3;s:6:"spring";i:3;s:6:"stayed";i:3;s:4:"swim";i:3;s:7:"springs";i:5;s:4:"felt";i:4;s:7:"caption";i:6;s:10:"attachment";i:3;s:5:"align";i:3;s:9:"alignnone";i:3;s:5:"width";i:3;}";
-word_stats_word_count:
-- '847'
-- '847'
+title: Mataranka - Planschen mit Krokodilen
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)
@@ -40,11 +16,11 @@ When 5 people who never met before get together and decide to go on a vacation f
 
 Enough of this now and back to the journey that happened in very straight lines.  We decided from that point on to split everything up and do groceries separately as that was the main issue. We hopped all onto the bus and went south again until we finally arrived in Mataranka. Mataranka was known for its hot spring and that was what we enjoyed that day. We guys got of the van, took our shorts and towels and went to the spring while the gals stayed at the van. The spring was awesome and probably the most relaxing swim I ever had. When I was in the Philippines I went with Schirin to Hot Springs but those were really quite hot and you felt exhausted and sleepy afterwards. This one was completely different. It was the perfect temperature. However, since we only had one day in the city we decided to go for a walk around to see some other things.<figure id="attachment_1349" style="width: 840px" class="wp-caption aligncenter">
 
-<img class="size-large wp-image-1349" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg" alt="Treating it like an inventory list." width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Treating it like an inventory list.</figcaption></figure> <figure id="attachment_1350" style="width: 840px" class="wp-caption aligncenter"><img class="size-large wp-image-1350" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg" alt="No risk, no fun" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">No risk, no fun</figcaption></figure> 
+<img class="size-large wp-image-1349" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg" alt="Treating it like an inventory list." width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6739-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Treating it like an inventory list.</figcaption></figure> <figure id="attachment_1350" style="width: 840px" class="wp-caption aligncenter"><img class="size-large wp-image-1350" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg" alt="No risk, no fun" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6764-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">No risk, no fun</figcaption></figure>
 
 The next thing was the river that the hot springs poured in to. A sign told us that it was &#8220;harmless&#8221; to swim in. After the rainy season there might be some saltwater crocodiles in there but usually they keep it clean. However, without much ado we went down to the water and took a swim. It was weird. Although we knew that there shouldn&#8217;t be any saltwater crocs it was still somehow haunting us. After a while we also had enough of that and went on. We found signs to a waterhole around 2km from the springs. Stevie&#8217;s hole it was called and the path to it was just dirt and dead trees, while only a few meters to the side it was lush and green vegetation. After 20 or 30 minutes we arrived at the waterhole and it felt a little bit like paradise. For the first time we were completely alone, and no tourists spoilt the experience. On this hole was the same warning as at the river (by the way: no tourists neither). However, it felt more secure because you could see the banks and all access to the water. We went around and checked everything before we went bathing. It was awesome. We stayed there for a couple more hours and enjoyed the nature.<figure id="attachment_1352" style="width: 840px" class="wp-caption aligncenter">
 
-<img class="wp-image-1352 size-large" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg" alt="IMG_6819" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Swimming in Paradise</figcaption></figure> 
+<img class="wp-image-1352 size-large" src="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg" alt="IMG_6819" width="840" height="560" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1024x683.jpg 1024w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-768x512.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_6819-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption class="wp-caption-text">Swimming in Paradise</figcaption></figure>
 
 On our way back to the van we stopped at the hot springs where we met the girls, stayed there for a bit and then end the day. After dinner they went back to the springs while I went to bed. I felt super exhausted but happy about everything we so until that day.
 

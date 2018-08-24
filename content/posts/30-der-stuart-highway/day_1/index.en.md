@@ -1,37 +1,7 @@
 ---
 author: Jan
 date: 2013-10-06 04:46:20
-fb_author_post_id:
-- 117927857710201970403759898
-- 117927857710201970403759898
-guid: http://jan-steinke.de/?page_id=928
-id: 928
-post_to_facebook_page:
-- '1'
-- '1'
-post_to_facebook_timeline:
-- '0'
-- '0'
-readability_ARI:
-- '8.2'
-- '8.2'
-readability_CLI:
-- '8.2'
-- '8.2'
-readability_LIX:
-- '30.5'
-- '30.5'
-title: Darwin &#8211; Tasting Crocodile
-url: /darwin-tasting-crocodile
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:94:"a:5:{s:6:"darwin";i:4;s:5:"orion";i:3;s:6:"hostel";i:3;s:7:"caption";i:4;s:9:"crocodile";i:4;}";
-- s:94:"a:5:{s:6:"darwin";i:4;s:5:"orion";i:3;s:6:"hostel";i:3;s:7:"caption";i:4;s:9:"crocodile";i:4;}";
-word_stats_word_count:
-- '201'
-- '201'
+title: Darwin - Tasting Crocodile
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/the-stuart-highway/ "The Stuart Highway")

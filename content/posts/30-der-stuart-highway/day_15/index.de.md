@@ -1,34 +1,7 @@
 ---
 author: Jan
 date: 2016-02-13 14:20:10
-fb_author_post_id:
-- 117927857710203880017379045
-- 117927857710203880017379045
-fb_fan_page_post_id:
-- 336947102991759790052211014577
-- 336947102991759790052211014577
-guid: http://jan-steinke.de/wordpress/?page_id=1562
-id: 1562
-readability_ARI:
-- '3.3'
-- '3.3'
-readability_CLI:
-- '6.1'
-- '6.1'
-readability_LIX:
-- '25.7'
-- '25.7'
 title: Adelaide – Zeit zum Entspannen
-url: /adelaide-zeit-zum-entspannen
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:4:"b:0;";
-- s:4:"b:0;";
-word_stats_word_count:
-- '83'
-- '83'
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/de/blog/2013/10/06/der-stuart-highway/)

@@ -1,34 +1,7 @@
 ---
 author: Jan
 date: 2014-06-24 01:09:04
-fb_author_post_id:
-- 117927857710203880006018761
-- 117927857710203880006018761
-fb_fan_page_post_id:
-- 336947102991759790052137681251
-- 336947102991759790052137681251
-guid: http://jan-steinke.de/?page_id=1165
-id: 1165
-readability_ARI:
-- '4.1'
-- '4.1'
-readability_CLI:
-- '6.7'
-- '6.7'
-readability_LIX:
-- '23.7'
-- '23.7'
 title: Adelaide – A break, some sleep, repacking
-url: /adelaide-a-break-some-sleep-repacking
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:23:"a:1:{s:6:"island";i:3;}";
-- s:23:"a:1:{s:6:"island";i:3;}";
-word_stats_word_count:
-- '184'
-- '184'
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)

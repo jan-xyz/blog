@@ -1,35 +1,7 @@
 ---
 author: Jan
 date: 2013-11-30 14:26:54
-fb_author_post_id:
-- 117927857710202428383009093
-- 117927857710202428383009093
-fb_fan_page_post_id:
-- 336947102991759688265401193259
-- 336947102991759688265401193259
-guid: http://jan-steinke.de/?page_id=1092
-id: 1092
-image: /wp-content/uploads/2016/02/IMG_7245.jpg
-readability_ARI:
-- '6.5'
-- '6.5'
-readability_CLI:
-- '6.7'
-- '6.7'
-readability_LIX:
-- '25.6'
-- '25.6'
-title: Uluru &#8211; A rock that still impresses
-url: /uluru-a-rock-that-still-impresses
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:242:"a:15:{s:6:"canyon";i:7;s:5:"uluru";i:3;s:4:"went";i:4;s:6:"valley";i:4;s:4:"took";i:8;s:4:"walk";i:4;s:4:"rock";i:10;s:5:"jamie";i:3;s:4:"side";i:4;s:4:"view";i:4;s:5:"small";i:4;s:4:"just";i:4;s:4:"same";i:3;s:4:"road";i:3;s:6:"sunset";i:3;}";
-- s:242:"a:15:{s:6:"canyon";i:7;s:5:"uluru";i:3;s:4:"went";i:4;s:6:"valley";i:4;s:4:"took";i:8;s:4:"walk";i:4;s:4:"rock";i:10;s:5:"jamie";i:3;s:4:"side";i:4;s:4:"view";i:4;s:5:"small";i:4;s:4:"just";i:4;s:4:"same";i:3;s:4:"road";i:3;s:6:"sunset";i:3;}";
-word_stats_word_count:
-- '666'
-- '666'
+title: Uluru - A rock that still impresses
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/en/blog/2013/10/06/the-stuart-highway/)
@@ -39,20 +11,20 @@ Previous: [King&#8217;s Canyon &#8211; A thunderstorm in the evening](https://j
 Before we actually got to see Uluru we went to the Canyon that I talked about already. The King&#8217;s Canyon was really close to our campsite and had two possible routs to take. Since the girl&#8217;s didn&#8217;t feel that way they stayed in the open valley of the canyon while we went up and took a walk around. It was an experience that was possibly one of the most memorable. From the weird rock formations that were carved by wind and rain to the silent ponds in the valley where Jamie took an unexpected bath it was simply a great way to start the day.
 
 <div id='gallery-5' class='gallery galleryid-1092 gallery-columns-4 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://jan-steinke.de/wordpress/de/img_7233/'><img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7233-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://jan-steinke.de/wordpress/de/img_7263/'><img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7263-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://jan-steinke.de/wordpress/de/img_7256/'><img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7256-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://jan-steinke.de/wordpress/de/img_7259/'><img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7259-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>

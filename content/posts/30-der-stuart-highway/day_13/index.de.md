@@ -1,34 +1,7 @@
 ---
 author: Jan
 date: 2016-02-13 14:36:24
-fb_author_post_id:
-- 117927857710203880015899008
-- 117927857710203880015899008
-fb_fan_page_post_id:
-- 336947102991759790052171014581
-- 336947102991759790052171014581
-guid: http://jan-steinke.de/wordpress/?page_id=1565
-id: 1565
-readability_ARI:
-- '6'
-- '6'
-readability_CLI:
-- '8.1'
-- '8.1'
-readability_LIX:
-- '28'
-- '28'
-title: Kangaroo Island &#8211; Erwachen im Paradies
-url: /kangaroo-island-erwachen-im-paradies
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:57:"a:3:{s:8:"kangaroo";i:4;s:6:"island";i:3;s:4:"just";i:3;}";
-- s:57:"a:3:{s:8:"kangaroo";i:4;s:6:"island";i:3;s:4:"just";i:3;}";
-word_stats_word_count:
-- '131'
-- '131'
+title: Kangaroo Island - Erwachen im Paradies
 ---
 
 [Navigation](https://jan-steinke.de/wordpress/de/blog/2013/10/06/der-stuart-highway/)
@@ -50,64 +23,64 @@ Kangaroo Island war ein unglaublich majestätischer und dieser unberührte Ort w
 Nach dem Frühstück sind wir zum Strand aufgebrochen; Jamie ist gleich erstmal schwimmen gegangen, Orion und ich haben ne Burg gebaut, Maddy hat gelesen. Das alles war schon fast zu entspannt.
 
 <div id='gallery-11' class='gallery galleryid-1565 gallery-columns-3 gallery-size-medium'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2847743215-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2847743215-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2847743215-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2847743215.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3020095925-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3020095925-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3020095925-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3020095925.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1831015193-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1831015193-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1831015193-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1831015193.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1696013425-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1696013425-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1696013425-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1696013425.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3424577124-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3424577124-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3424577124-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/3424577124.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/142666130-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/142666130-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/142666130-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/142666130.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/163853194-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/163853194-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/163853194-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/163853194.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1252388591-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1252388591-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1252388591-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1252388591.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1322071523-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1322071523-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1322071523-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1322071523.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2187801981-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2187801981-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2187801981-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2187801981.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/103627655-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/103627655-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/103627655-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/103627655.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2501648702-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2501648702-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2501648702-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2501648702.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1400055993-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1400055993-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1400055993-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/1400055993.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/81542646-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/81542646-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/81542646-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/81542646.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="300" height="200" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2249191025-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2249191025-300x200.jpg 300w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2249191025-768x511.jpg 768w, https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/2249191025.jpg 810w" sizes="(max-width: 300px) 85vw, 300px" />
   </div></figure>

@@ -1,34 +1,7 @@
 ---
 author: Jan
 date: 2016-02-13 15:40:02
-fb_author_post_id:
-- 117927857710203880005938759
-- 117927857710203880005938759
-fb_fan_page_post_id:
-- 336947102991759790052131014585
-- 336947102991759790052131014585
-guid: http://jan-steinke.de/wordpress/?page_id=1595
-id: 1595
-readability_ARI:
-- '6.1'
-- '6.1'
-readability_CLI:
-- '7.5'
-- '7.5'
-readability_LIX:
-- '24.7'
-- '24.7'
-title: Coober Pedy &#8211; Edelsteine, die die Welt regieren
-url: /coober-pedy-edelsteine-die-die-welt-regieren
-word_stats_cached:
-- '1'
-- '1'
-word_stats_keywords:
-- s:70:"a:4:{s:5:"hours";i:3;s:6:"coober";i:3;s:4:"pedy";i:3;s:5:"state";i:3;}";
-- s:70:"a:4:{s:5:"hours";i:3;s:6:"coober";i:3;s:4:"pedy";i:3;s:5:"state";i:3;}";
-word_stats_word_count:
-- '392'
-- '392'
+title: Coober Pedy - Edelsteine, die die Welt regieren
 ---
 
 [Navigation](https://jan-steinke.de/the-stuart-highway/)
@@ -46,36 +19,36 @@ The eat everything turned out to be more challenging than we expected. We had en
 On the road again: it was only a couple of more hours until we would arrive in Coober Pedy. Though, the city already was announced by several open mines in the landscape way before any civilization was in sight. Hills of sand at the side of the road and as far as we could see marked the spots where miners were digging for precious stones. What stones you ask? Well, Coober Pedy is renown for its opals. The town is the largest opal mine in the world.
 
 <div id='gallery-14' class='gallery galleryid-1595 gallery-columns-4 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7509-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7510-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7514-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7516-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7519-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7502-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7488-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <img width="150" height="150" src="http://jan-steinke.de/wordpress/wp-content/uploads/2016/02/IMG_7498-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />
   </div></figure>
