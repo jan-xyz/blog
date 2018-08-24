@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2013-10-06'
-id: 929
 title: Der Stuart Highway
 ---
 
