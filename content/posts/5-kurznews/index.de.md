@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2010-06-16'
-id: 68
 title: Kurznews!
 ---
 

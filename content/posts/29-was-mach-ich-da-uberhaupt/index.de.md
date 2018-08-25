@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2013-09-13'
-id: 897
 title: Was mach ich da überhaupt?
 ---
 

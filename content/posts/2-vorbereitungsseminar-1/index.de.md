@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2010-03-18'
-id: 30
 title: Vorbereitungsseminar 1
 ---
 

@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2010-03-25'
-id: 34
 title: Morgen geht's los!
 ---
 

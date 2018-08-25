@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2010-03-09'
-id: 1074
 title: Hallo Welt!
 ---
 

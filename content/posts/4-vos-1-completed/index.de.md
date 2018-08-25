@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2010-03-29'
-id: 37
 title: VOS 1 completed!
 ---
 

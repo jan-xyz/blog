@@ -1,7 +1,6 @@
 ---
 author: Jan
 date: '2013-08-20'
-id: 877
 title: And the Shock came - But it wasn't cultural
 ---
 
