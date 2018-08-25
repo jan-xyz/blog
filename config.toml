@@ -1,7 +1,7 @@
 baseURL = "https://blog.jan-steinke.de"
 languageCode = "de-de"
 title = "Eine weitere Selbstdarstellung"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 DefaultContentLanguage = "de"
 copyright = "alles meins"
 sectionPagesMenu = "main"
@@ -17,8 +17,16 @@ Paginate = 9
     title = "Eine weitere Selbstdarstellung"
     weight = 1
     languageName = "Deutsch"
+    [[languages.de.menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 0
   [languages.en]
     title = "Just another grandstanding"
     weight = 2
     copyright = "Everything is mine"
     languageName = "English"
+    [[languages.en.menu.main]]
+    url    = "/en/"
+    name   = "Home"
+    weight = 0
