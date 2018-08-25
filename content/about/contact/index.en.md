@@ -1,9 +1,7 @@
 ---
 author: Jan
 date: 2013-08-03 08:02:37
-id: 846
 title: Contact
-menu: "main"
 ---
 
 ![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg)
