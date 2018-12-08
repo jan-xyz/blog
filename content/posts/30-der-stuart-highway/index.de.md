@@ -37,4 +37,4 @@ Tag 14: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](https:/
 
 Tag 15: [Adelaide - Zeit zum Entspannen](https://jan-steinke.de/wordpress/de/adelaide-zeit-zum-entspannen/)
 
-![Image](./images/Map.png)
+![Image](/posts/30-der-stuart-highway/images/Map.png)
