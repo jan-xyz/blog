@@ -4,7 +4,7 @@ date: '2010-11-15'
 title: Der Himmel über Lucena!
 ---
 
-![Image](/posts/16-der-himmel-uber-lucena/images/vanilla_sky.jpg) Egal wo man
+![Image](./images/vanilla_sky.jpg) Egal wo man
 sich auf den Rücken legt und den Wolken beim Treiben zusieht, ist der Himmel
 gleich.
 
@@ -23,7 +23,7 @@ Es ist nicht mehr alles nur noch verschieden und anders sondern das Leben
 gleicht immer mehr dem was man aus Europa kennt. Klar bleiben die Unterschiede
 noch, aber man gewöhnt sich an alles!
 
-![Image](/posts/16-der-himmel-uber-lucena/images/jesus.jpg)
+![Image](./images/jesus.jpg)
 Ein Unterschied an den ich mich wohl nicht so gut gewöhnen werde, egal wie
 lange ich hier bin, ist die Omnipräsenz von christlichen Bildern und Sprüchen.
 "God is Good" ist der Satz, den ich hier am Meisten gelesen habe. Diese und
@@ -46,7 +46,7 @@ Wir haben in unserer Zeit auf den Philippinen schon die ein oder andere Kirche
 besichtigt aber KP, Emerald und Tiger versprachen uns einen "Themenpark Gottes".
 Und es war nicht untertrieben.
 
-![Image](/posts/16-der-himmel-uber-lucena/images/garden_of_eden.jpg)
+![Image](./images/garden_of_eden.jpg)
 "Kamay ni Hesus" (Hand Jesu) war der edle Name dieses Geländes. Das einzige,
 dass mich am Ende gewundert hat war, dass wir keinen Eintritt bezahlen mussten!
 
@@ -58,7 +58,7 @@ Berges stand eine ca. 30Meter hohe Jesusstatue. Der Weg und die Ornamente zur
 Spitze erzählten mit Bildern und Statuen den Weg, den Jesus durchschritt, vom
 letzen Abendmahl bis zur Kreuzigung.
 
-![Image](/posts/16-der-himmel-uber-lucena/images/arch.jpg)Doch bevor wir in den
+![Image](./images/arch.jpg)Doch bevor wir in den
 Genuss des Aufstiegs kamen mussten wir erst einmal durch das Tal. Dieses war
 mit weiteren Highlights ausgeschmückt:
 
@@ -73,7 +73,7 @@ Als wir das sahen wussten wir sofort, was KP mit "Themenpark Gottes" meinte.
 Ich hab leider keine Ahnung wie ich das Beschreiben soll und hoffe einfach,
 dass euch die wenigen Bilder helfen eine ungefähre Vorstellung zu bekommen.
 
-![Image](/posts/16-der-himmel-uber-lucena/images/shrine.jpg)Nachdem wir nun den
+![Image](./images/shrine.jpg)Nachdem wir nun den
 Aufstieg zur riesigen Statue gemeistert hatten und wieder im Jeepney saßen ging
 es weiter in Ems' Heimatstadt, Tayabas.
 
@@ -86,7 +86,7 @@ und die Statuen im Hauptschiff gefielen mir dabei am Besten! Wir besuchten noch
 das ehemalige Haus des Bürgermeisters, das mittlerweile ein Hotel ist, kauften
 ein paar Sachen fürs Abendbrot ein und aßen einen kleinen Snack (Merienda).
 
-![Image](/posts/16-der-himmel-uber-lucena/images/concert.jpg)Im Kontrast zu dem
+![Image](./images/concert.jpg)Im Kontrast zu dem
 kulturellen Programm, das uns KP, Ems und Tiger liefern, haben wir natürlich
 auch noch unsere Arbeit in der Bibliothek und unser Projekt mit dem Social
 Welfare & Development Office. Von letzterem habe ich hier glaube ich noch
@@ -96,7 +96,7 @@ Bericht, da wir grade einen Höhepunkt dort miterlebten (oder Tiefpunkt? 🙁 ).
 Die SWD Officerin, Mrs. Ruanto, war mir seit unserem ersten Besuch bei ihr im
 Büro schon sehr sympathisch und von daher erklärten wir uns bereit mit den Kids
 in einem Waisenhaus in unserer Nähe ein Musikprojekt zu starten.
-![Image](/posts/16-der-himmel-uber-lucena/images/mj.jpg) Dazu kam, dass Mrs.
+![Image](./images/mj.jpg) Dazu kam, dass Mrs.
 Ruanto Ende November in Ruhestand geht und dazu eine kleine
 Abschiedsveranstaltung in dem Waisenhaus geben wollte. Als wir also im
 September mit ihr sprachen, sagten wir auch zu, dass wir dort eine Nummer
@@ -115,7 +115,7 @@ alle Lieder aus unserer Liste gestrichen werden, wir uns aber eins aussuchen
 können, dass im Programm bleibt, das ich dann singen werde. Die anderen 2
 werden 2 filippinische Songs und von einem Mädchen gesungen.
 
-![Image](/posts/16-der-himmel-uber-lucena/images/malte.jpg)Ich hatte dann echt
+![Image](./images/malte.jpg)Ich hatte dann echt
 die Nase voll davon und weigerte mich zu weiteren Bandproben zu kommen, da ich
 das eine Lied, dass ich mir ausgesucht hatte auch alleine mit Malte üben
 konnte. Malte musste ja aber noch die beiden filippinischen Songs auf der
@@ -137,7 +137,7 @@ auch ein großer Reinfall wie sich später herausstellte und das Konzert fing
 laut Programm auch erst um 3 an. Also warteten wir noch eine  Stunde mehr, Zum
 Glück ab 1 dann ja mit Blessie!
 
-![Image](/posts/16-der-himmel-uber-lucena/images/jan.jpg)
+![Image](./images/jan.jpg)
 13. November, 15Uhr
 
 Das Programm fing an! Tanzeinlagen, Karaokegesänge und Videos standen auf dem
@@ -154,7 +154,7 @@ auf die Bühne, bereit meine Verse ins Mikrophon zu geben. "21 Guns" von Green
 Day im Duett mit unserer bezaubernden Sängerin, deren Namen ich immer noch
 nicht weiß.
 
-![Image](/posts/16-der-himmel-uber-lucena/images/family.jpg)
+![Image](./images/family.jpg)
 Ich war mit meinem Kopf in den Wolken. Womit wir wieder beim Anfang wären.
 
 Ich bin froh hier gelandet zu sein, die Menschen sind super, ich will keinen

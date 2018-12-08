@@ -60,7 +60,7 @@ täglich kümmern können!
 Natürlich ist immer noch für genug Arbeit gesorgt! Die Eröffnung am Samstag 
 wird mit Sunshines Geburtstag, der Freitag ist, verbunden.  Und morgen ist 
 Ate("Große Schwester" auf Deutsch) 
-![Image](/posts/14-alltagsbericht/images/family.jpg) Sunshines und 
+![Image](./images/family.jpg) Sunshines und 
 Kuya("Großer Bruder" auf Deutsch) Lloyds zweimonatiges! Wow! Schon 2 Monate 
 haben die beiden miteinander ausgehalten! Wenn man bedenkt, dass wir schon 
 mehr als einen Monate bei denen wohnen ist das echt heftig, die beiden konnten 
