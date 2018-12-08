@@ -36,4 +36,4 @@ Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](https://ja
 
 Day 15: [Adelaide - Time to relax](https://jan-steinke.de/wordpress/en/adelaide-time-to-relax/)
 
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2016/02/Screen-Shot-2013-10-06-at-12.28.46-.png)
+![Image](/posts/30-der-stuart-highway/images/Map.png)
