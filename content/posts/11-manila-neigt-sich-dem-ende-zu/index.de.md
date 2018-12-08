@@ -24,4 +24,4 @@ Ich hoffe ich kann euch bald berichten, ob das mit morgen klappt oder nicht!
 
 Stay tuned, Jan
 
-UPDATE: JAAA! Ich bin da und es ist super! Hab schon Bilder, die ihr euch unter &#8220;<a href="https://jan-steinke.de/pueblo-por-la-playa/" target="_self">Fotos</a>&#8221; angucken könnt!
+UPDATE: JAAA! Ich bin da und es ist super! Hab schon Bilder, die ihr euch unter [Fotos](/images/pueblo-por-la-playa/) angucken könnt!
