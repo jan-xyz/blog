@@ -12,4 +12,5 @@ Der Stand der Dinge:
 
 [x] 2. VOS: 12.-18.07.2010
 
-Alles in allem geht nun alles dem Ende zu. Die Zeit in Deutschland wird knapp und die Vorbereitungen für das Jahr sind nun fast alle getroffen.
+Alles in allem geht nun alles dem Ende zu. Die Zeit in Deutschland wird knapp
+und die Vorbereitungen für das Jahr sind nun fast alle getroffen.

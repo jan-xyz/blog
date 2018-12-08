@@ -4,7 +4,9 @@ date: '2010-07-22'
 title: Kurznews Nr. 2
 ---
 
-Ich habe heute morgen eine Mail von der Asienkorrespondentin des ICJA bekommen. Wir Philippinen Leute haben endlich unsere Projektplatzierungen bekommen! Das bedeutet:
+Ich habe heute morgen eine Mail von der Asienkorrespondentin des ICJA bekommen.
+Wir Philippinen Leute haben endlich unsere Projektplatzierungen bekommen!
+Das bedeutet:
 
 [ ] Visainfos
 
@@ -14,8 +16,9 @@ Ich habe heute morgen eine Mail von der Asienkorrespondentin des ICJA bekommen. 
 
 [x] Projekt: URBAN POOR ASSOCIATES (UPA)
 
-<p style="padding-left: 30px;">
-  Die Projektbeschreibung als Zusammenfassung:<br /> -Nachhilfe für Schüler der 5. und 6. Klasse<br /> -Unterstützung beim Verkauf von Medikamenten oder Lebensmitteln<br /> -Cooperation und Verwaltungsunterstützung
-</p>
+Die Projektbeschreibung als Zusammenfassung:
+* Nachhilfe für Schüler der 5. und 6. Klasse
+* Unterstützung beim Verkauf von Medikamenten oder Lebensmitteln
+* Cooperation und Verwaltungsunterstützung
 
 Mal sehen welche Erfahrungen ich in dem Projekt sammle!
