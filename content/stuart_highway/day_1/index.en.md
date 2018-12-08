@@ -1,6 +1,6 @@
 ---
 author: Jan
-date: 2013-10-06 04:46:20
+date: '2013-10-06'
 title: Darwin - Tasting Crocodile
 ---
 
