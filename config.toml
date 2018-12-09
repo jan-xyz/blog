@@ -14,21 +14,19 @@ Paginate = 9
 [languages]
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
-    baseURL = "https://blog.jan-steinke.de"
     weight = 1
     copyright = "alles meins"
     languageName = "Deutsch"
     [[languages.de.menu.main]]
-    url    = "/"
+    url    = "/de/"
     name   = "Home"
     weight = 0
   [languages.en]
     title = "Just another grandstanding"
-    baseURL = "https://blog.jan-steinke.de/en/"
     weight = 2
     copyright = "Everything is mine"
     languageName = "English"
     [[languages.en.menu.main]]
-    url    = "/"
+    url    = "/en/"
     name   = "Home"
     weight = 0
