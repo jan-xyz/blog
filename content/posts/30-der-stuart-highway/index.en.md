@@ -23,34 +23,34 @@ sights I have ever seen. It was filled with joy, anger, fatigue, activity,
 boredom and excitement. I learned a lot for the future and had enlightening
 discussions with people I met.
 
-Day 1: [Darwin - Tasting Crocodile](/stuart_highway/day_1)
+Day 1: [Darwin - Tasting Crocodile](/pages/stuart_highway/day_1)
 
-Day 2: [Darwin - Mindil Beach](/stuart_highway/day_2)
+Day 2: [Darwin - Mindil Beach](/pages/stuart_highway/day_2)
 
-Day 3: [To Litchfield - The Wicked Experience](/stuart_highway/day_3)
+Day 3: [To Litchfield - The Wicked Experience](/pages/stuart_highway/day_3)
 
-Day 4: [In Litchfield - Of Waterfalls and basking](/stuart_highway/day_4)
+Day 4: [In Litchfield - Of Waterfalls and basking](/pages/stuart_highway/day_4)
 
-Day 5: [Mataranka - Swimming with crocodiles](/stuart_highway/day_5)
+Day 5: [Mataranka - Swimming with crocodiles](/pages/stuart_highway/day_5)
 
-Day 6: [Devil's Marbles - A day in the car to see the sunset](/stuart_highway/day_6)
+Day 6: [Devil's Marbles - A day in the car to see the sunset](/pages/stuart_highway/day_6)
 
-Day 7: [Alice Springs - Refreshing, getting back on track](/stuart_highway/day_7)
+Day 7: [Alice Springs - Refreshing, getting back on track](/pages/stuart_highway/day_7)
 
-Day 8: [King's Canyon - A thunderstorm in the evening](/stuart_highway/day_8)
+Day 8: [King's Canyon - A thunderstorm in the evening](/pages/stuart_highway/day_8)
 
-Day 9: [Uluru - A rock that still impresses](/stuart_highway/day_9)
+Day 9: [Uluru - A rock that still impresses](/pages/stuart_highway/day_9)
 
-Day 10: [Coober Pedy - Precious stones that rule the world](/stuart_highway/day_10)
+Day 10: [Coober Pedy - Precious stones that rule the world](/pages/stuart_highway/day_10)
 
-Day 11: [Adelaide - A break, some sleep, repacking](/stuart_highway/day_11)
+Day 11: [Adelaide - A break, some sleep, repacking](/pages/stuart_highway/day_11)
 
-Day 12: [Kangaroo Island - A rough sea, a majestic view](/stuart_highway/day_12)
+Day 12: [Kangaroo Island - A rough sea, a majestic view](/pages/stuart_highway/day_12)
 
-Day 13: [Kangaroo Island - Waking up in paradise](/stuart_highway/day_13)
+Day 13: [Kangaroo Island - Waking up in paradise](/pages/stuart_highway/day_13)
 
-Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](/stuart_highway/day_14)
+Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](/pages/stuart_highway/day_14)
 
-Day 15: [Adelaide - Time to relax](/stuart_highway/day_15)
+Day 15: [Adelaide - Time to relax](/pages/stuart_highway/day_15)
 
 ![Image](./images/map.png)
