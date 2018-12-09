@@ -1,3 +1,4 @@
+baseURL = "https://blog.jan-steinke.de"
 languageCode = "de-de"
 title = "Eine weitere Selbstdarstellung"
 theme = "gohugo-theme-ananke"
