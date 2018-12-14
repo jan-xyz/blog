@@ -3,7 +3,6 @@ languageCode = "de-de"
 title = "Eine weitere Selbstdarstellung"
 theme = "gohugo-theme-ananke"
 DefaultContentLanguage = "de"
-sectionPagesMenu = "main"
 Paginate = 9
 
 [params]
