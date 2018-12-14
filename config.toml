@@ -8,7 +8,6 @@ Paginate = 9
 [params]
   twitter = "https://twitter.com/janxyz"
   github = "https://github.com/jan-xyz"
-  facebook = "http://facebook.com/jan.steinke"
 
 [languages]
   [languages.de]
