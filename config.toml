@@ -18,8 +18,8 @@ Paginate = 9
     languageName = "Deutsch"
     [[languages.de.menu.main]]
     url    = "/de/"
-    name   = "Home"
-    weight = 0
+    name   = "Startseite"
+    weight = 10
   [languages.en]
     title = "Just another grandstanding"
     weight = 2
@@ -28,4 +28,4 @@ Paginate = 9
     [[languages.en.menu.main]]
     url    = "/en/"
     name   = "Home"
-    weight = 0
+    weight = 10
