@@ -1,4 +1,4 @@
 [submodule "themes/gohugo-theme-ananke"]
 	path = themes/gohugo-theme-ananke
-	url = git@github.com:jan-xyz/gohugo-theme-ananke.git
+	url = https://github.com/jan-xyz/gohugo-theme-ananke
 	branch = i18n_support
