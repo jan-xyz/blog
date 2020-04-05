@@ -4,7 +4,7 @@ date: '2010-07-22'
 title: VOS 2 completed!
 ---
 
-![Image](./images/seminar.jpg)
+{{< img src="images/seminar.jpg" >}}
 Am Sonntag bin ich von meinem 2. Vorbereitungsseminar zurück gekehrt. Im
 Gegensatz zum InfoVOS im Frühjahr war dieses über eine ganze Woche und somit
 viel umfangreicher. Wir unterhielten uns wieder um auslandsrelevante Themen wie

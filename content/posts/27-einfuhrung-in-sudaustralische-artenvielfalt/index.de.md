@@ -4,9 +4,9 @@ date: '2013-07-28'
 title: Einführung in südaustralische Artenvielfalt
 ---
 
-![Image](./images/wombat.jpg)
-![Image](./images/koala.jpg)
-![Image](./images/kangaroos.jpg)
+{{< img src="images/wombat.jpg" >}}
+{{< img src="images/koala.jpg" >}}
+{{< img src="images/kangaroos.jpg" >}}
 
 Die Einführungsphase an der Universität ist vorbei. Das bedeutet, dass ich die
 letzte Woche damit verbracht habe semi-wichtige Vorlesungen zu besuchen und die
@@ -20,9 +20,9 @@ Koala streicheln und fotografieren gab es auch. Allerdings sahen die kleinen
 Beuteltiere reichlich überfordert aus, als auf einmal 200 Studenten um sie
 herum verteilt waren.
 
-![Image](./images/sculpture_whale.jpg)
-![Image](./images/horse.jpg)
-![Image](./images/beach.jpg)
+{{< img src="images/sculpture_whale.jpg" >}}
+{{< img src="images/horse.jpg" >}}
+{{< img src="images/beach.jpg" >}}
 
 Nach dem Tierpark ging es weiter in die kleine Hafenstadt Victor Harbour.
 Historisch ein wichtiger Ort für Australien und fotografisch ein Traum, war es
@@ -32,4 +32,4 @@ vollendeten die Weltkarte. Ein weiteres kleines Highlight war der Blick
 Richtung Antarktis. Victor Harbour ist zwar nicht der südlichste Punkt
 Australiens aber es liegt keine  Landmasse zwischen der Stadt und dem
 südlichsten Kontinent.
-![Image](./images/antarctica.jpg)
+{{< img src="images/antarctica.jpg" >}}

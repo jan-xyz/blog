@@ -15,7 +15,7 @@ a group of other exchange students that were spending their time in Darwin for
 the Mid-semester break. We had chat with them and shared the shuttle bus to the
 city center to get to our hostel (Dingo Moon Lodge).
 
-![Image](./images/orion.jpg)
+{{< img src="images/orion.jpg" >}}
 
 When we arrived at the hostel the girls went to do some basic grocery shopping
 to make lunch for tomorrow (Sunday) while we took a bath in the hostel's pool.
@@ -24,6 +24,6 @@ some crocodile meat, a specialty in Darwin and other cities that are close to
 crocodile areas. We found a restaurant directly at the sea front that offered
 crocodile so we sat down and enjoyed the finale of our first day.
 
-![Image](./images/crocodile.jpg)
+{{< img src="images/crocodile.jpg" >}}
 
 Next: [Darwin - Mindil Beach](../day_02)

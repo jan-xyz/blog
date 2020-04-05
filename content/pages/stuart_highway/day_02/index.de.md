@@ -17,7 +17,7 @@ von Darwin. Es war eine gute Gelegenheit ein paar Souvenirs zu bekommen(Ich hab
 mir nichts gekauft). Jamie, unser Junge aus Newcastle, hat sich einen Hut aus
 alter Road Train(LKW)Plane gekauft.
 
-![Image](./images/jamies_hat.jpg)
+{{< img src="images/jamies_hat.jpg" >}}
 
 In zukünftigen Bildern wird er öfter mal mit dem Hut auftauchen. Wir haben noch
 ein paar Stunden auf dem Markt verbracht und der Livemusik zugehört. Hinterher
@@ -27,7 +27,7 @@ als wir Richtung Stadtzentrum marschierten. Es wirkte ein bisschen als ob der
 ganze Strand in Bewegung wäre. Zurück im Hostel haben wir noch ein bisschen
 Zeit damit tot geschlagen Bilder am Pool zu machen.
 
-![Image](./images/splash.jpg)
-![Image](./images/orion.jpg)
+{{< img src="images/splash.jpg" >}}
+{{< img src="images/orion.jpg" >}}
 
 Als nächstes: [Nach Litchfield - Das Wicked Erlebnis](../day_03)

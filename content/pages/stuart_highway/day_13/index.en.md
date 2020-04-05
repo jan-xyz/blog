@@ -12,7 +12,7 @@ The next morning we woke up and found out that the campground was next to a
 huge meadow with kangaroos and wallabies grazing on. Me and Orion decided to
 take a walk and explore the area.
 
-![Image](./images/trees.jpg)
+{{< img src="images/trees.jpg" >}}
 
 Kangaroo Island was just majestic and this blissful place was just the perfect
 spot to get rid of the stress from crossing the desert. We used the day to come
@@ -22,20 +22,20 @@ the past week.
 After breakfast we went to the beach; Jamie went for a swim, me and Orion build
 sandcastles and dams, Maddy read a book. It was all just too relaxing almost.
 
-![Image](./images/snorkling.jpg)
-![Image](./images/photograph.jpg)
-![Image](./images/rocks.jpg)
-![Image](./images/jamie.jpg)
-![Image](./images/flowers.jpg)
-![Image](./images/meadow.jpg)
-![Image](./images/butterfly.jpg)
-![Image](./images/creek.jpg)
-![Image](./images/wood.jpg)
-![Image](./images/parking.jpg)
-![Image](./images/shell.jpg)
-![Image](./images/orion.jpg)
-![Image](./images/wave.jpg)
-![Image](./images/meadow2.jpg)
-![Image](./images/creek2.jpg)
+{{< img src="images/snorkling.jpg" >}}
+{{< img src="images/photograph.jpg" >}}
+{{< img src="images/rocks.jpg" >}}
+{{< img src="images/jamie.jpg" >}}
+{{< img src="images/flowers.jpg" >}}
+{{< img src="images/meadow.jpg" >}}
+{{< img src="images/butterfly.jpg" >}}
+{{< img src="images/creek.jpg" >}}
+{{< img src="images/wood.jpg" >}}
+{{< img src="images/parking.jpg" >}}
+{{< img src="images/shell.jpg" >}}
+{{< img src="images/orion.jpg" >}}
+{{< img src="images/wave.jpg" >}}
+{{< img src="images/meadow2.jpg" >}}
+{{< img src="images/creek2.jpg" >}}
 
 Next: [Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks](../day_14)

@@ -4,7 +4,7 @@ date: 2013-08-03 08:02:37
 title: Contact
 ---
 
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/IMG_1315-300x300.jpg)
+{{< img src="images/profile.jpg" >}}
 
 * Name: Jan S.
 * Currently: Hamburg, Germany

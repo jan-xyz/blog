@@ -16,10 +16,10 @@ an experience that was possibly one of the most memorable. From the weird rock
 formations that were carved by wind and rain to the silent ponds in the valley
 where Jamie took an unexpected bath it was simply a great way to start the day.
 
-![Image](./images/jamie1.jpg)
-![Image](./images/jamie2.jpg)
-![Image](./images/tree.jpg)
-![Image](./images/jan.jpg)
+{{< img src="images/jamie1.jpg" >}}
+{{< img src="images/jamie2.jpg" >}}
+{{< img src="images/tree.jpg" >}}
+{{< img src="images/jan.jpg" >}}
 
 The walk around the rim of the canyon, down into the valley, up on the other
 side and back on the rim on the other side took us approximately 3 hours. It
@@ -38,14 +38,14 @@ pond. after a while he came back out and we continued our walk. the other side
 was much the same as the first and nothing in particular happened. Just an
 amazing view into all directions.
 
-![Image](./images/swim.jpg)
+{{< img src="images/swim.jpg" >}}
 
 We got back on the road and a few hours later saw the first rock showing up to
 our left. Completely delusional, we expected it to be Uluru although we knew it
 was still a couple 100km down the road. Later it turned out to be a different
 Mountain. Let's not talk about this again. Embarrassing.
 
-![Image](./images/two.jpg)
+{{< img src="images/two.jpg" >}}
 
 However, we made it to the magical rock in the red center, checked in at
 Yulara, dropped of the girl's who wanted some quality time for themselves and
@@ -58,7 +58,7 @@ red sand dune. We took a small walk at the base of the rock as it was already
 late and we wanted to see the sunset from one of the viewing spots along the
 road.
 
-![Image](./images/uluru.jpg)
+{{< img src="images/uluru.jpg" >}}
 
 Along the trails were several info posts that told the story of the aboriginal
 believe that are connected to the rock's spiritual meaning. A ranger pointed

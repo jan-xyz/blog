@@ -4,9 +4,9 @@ date: '2013-07-28'
 title: South Australian Animal 101
 ---
 
-![Image](./images/wombat.jpg)
-![Image](./images/koala.jpg)
-![Image](./images/kangaroos.jpg)
+{{< img src="images/wombat.jpg" >}}
+{{< img src="images/koala.jpg" >}}
+{{< img src="images/kangaroos.jpg" >}}
 
 The introductory period at the Uni is over. That means I spent the last week
 going to semi-important lectures and meeting the other international students.
@@ -20,9 +20,9 @@ the park is the huge outdoor pen for the Kangaroos, who spent their time
 chilling in the sun. Koala petting was also part of the activity. However,
 those little marsupials felt a little overwhelmed by the 200 students.
 
-![Image](./images/sculpture_whale.jpg)
-![Image](./images/horse.jpg)
-![Image](./images/beach.jpg)
+{{< img src="images/sculpture_whale.jpg" >}}
+{{< img src="images/horse.jpg" >}}
+{{< img src="images/beach.jpg" >}}
 
 After the wildlife park we went to a close town at the sea called Victor
 Harbour. It is historically important as well as candy for every photographer.
@@ -31,4 +31,4 @@ exchanging their maps of Australia. Another nice thing about Victor Harbour is
 the view from Granite Island towards south. The next landmass in that direction
 happens to be the most southern point: Antarctica.
 
-![Image](./images/antarctica.jpg)
+{{< img src="images/antarctica.jpg" >}}

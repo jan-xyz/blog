@@ -4,14 +4,14 @@ date: '2011-02-14'
 title: Jan vs. Time
 ---
 
-![Image](./images/sydney.jpg)Ein herzliches Willkommen im neuen Jahr, ich hoffe
+{{< img src="images/sydney.jpg" >}}Ein herzliches Willkommen im neuen Jahr, ich hoffe
 Ihr hattet alle eine tolle Neujahrsfeier und seid alle gesund und munter! Bei
 mir ist alles super und ich habe die letzten 2 Monate ohne Probleme
 überstanden. Seit meinem Abflug in Manila nach Sydney ist so einiges passiert
 und ich werde mal ein wenig Bericht erstatten, damit ihr wieder auf dem
 Laufenden seid.
 
-![Image](./images/opera.jpg)Es ging natürlich alles los mit Sydney. Wir haben
+{{< img src="images/opera.jpg" >}}Es ging natürlich alles los mit Sydney. Wir haben
 dort Grace, die ich über Sunshine und Lloyd kennen gelernt habe, getroffen.
 Schirin und ich konnten in ihrer alten Wohnung unter kommen und haben somit
 erstmal die Zeit zusammen genossen und sind in die Innenstadt gefahren. Mit dem
@@ -36,7 +36,7 @@ einen 30AU$ Gutschein für den Flughafen, von dem wir einen in McDonalds
 investierten. Der andere ist leider verfallen, weil wir keine Zeit mehr
 hatten: unser Flug ging los.
 
-![Image](./images/coron.jpg)Die nächsten Tage verbrachten wir mit shoppen in
+{{< img src="images/coron.jpg" >}}Die nächsten Tage verbrachten wir mit shoppen in
 Manila, da ich noch einige Tage Zeit hatte bis ich wieder zur Arbeit musste.
 Ich lernte auch mal Makati, eine von vielen Städten in Metro Manila, kennen, da
 Schirin ihr Visa für China beantragen musste.
@@ -56,7 +56,7 @@ Safarigebiet umfunktionierte Insel auf der Giraffen und Zebras frei leben. Es
 waren auch einige andere Tiere da, die aber natürlich nichts zu dem Erlebnis
 der freien Giraffen und Zebras waren.
 
-![Image](./images/volunteers.jpg)Entspannt und wohl gesonnen gings erstmal 
+{{< img src="images/volunteers.jpg" >}}Entspannt und wohl gesonnen gings erstmal 
 wieder für eine Woche in den Alltag und wir verbrachten einiges an Zeit
 zusammen, da ihr Rückflug für den ersten Februar angelegt war und es war
 bereits der 23. Januar. Gleichzeitig mit ihrem Rückflug begann auch mein
@@ -88,7 +88,7 @@ hoffen, dass wir so ein bisschen Ordnung in die Bibliothek bekommen.
 Wenn ihr weitere Eindrücke haben wollt, dann könnt ihr auch mal meine Eltern,
 die im April vorbei kommen, oder Schirin fragen.
 
-![Image](./images/kids.jpg)Wenn Euch das gefällt was ich schreibe und Ihr auch
+{{< img src="images/kids.jpg" >}}Wenn Euch das gefällt was ich schreibe und Ihr auch
 meine Arbeit in der Bibliothek unterstützen wollt, dann wäre ich Euch dankbar,
 wenn Ihr eine Kleinigkeit spendet. Das Geld geht über meine Mutter, die sich
 als Verwalterin bereit erklärt hat, direkt an den [ICJA e.V.](http://www.icja.de/),

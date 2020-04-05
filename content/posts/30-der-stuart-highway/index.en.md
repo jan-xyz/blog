@@ -3,7 +3,7 @@ author: Jan
 date: '2013-10-06'
 title: The Stuart Highway
 ---
-![Image](./images/road.jpg)
+{{< img src="images/road.jpg" >}}
 
 It was a rainy Saturday morning in Adelaide. Two men were waiting in a car in
 the CBD of Adelaide outside the University Accommodation on Grote Street. I was
@@ -53,4 +53,4 @@ Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](../../page
 
 Day 15: [Adelaide - Time to relax](../../pages/stuart_highway/day_15)
 
-![Image](./images/map.png)
+{{< img src="images/map.png" >}}

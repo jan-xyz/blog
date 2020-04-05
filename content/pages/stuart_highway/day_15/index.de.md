@@ -17,4 +17,4 @@ meine Freunde auf der Reise und all die anderen, die ich auf dem Trip getroffen
 habe. Wir hatten leider manchmal unsere Differenzen aber dennoch hatte ich
 einen unvergessliche Zeit. Thank you for being awesome!
 
-![Image](./images/entry.jpg)
+{{< img src="images/entry.jpg" >}}

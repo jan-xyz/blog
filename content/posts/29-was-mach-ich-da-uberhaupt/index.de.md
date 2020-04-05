@@ -22,7 +22,7 @@ vervollständigen. Dabei kam der Kurs hier in Adelaide wie gerufen. Es ist ein
 philosophischer Ansatz, den heutigen Stand in künstlicher und natürlicher
 Intelligenz zu hinterfragen und erklären. Wie denkt der Mensch? Wie
 organisieren wir Wissen? Welche Methoden nutzen wir, um Situationen zu berechnen?
-![Image](./images/glass.jpg)
+{{< img src="images/glass.jpg" >}}
 
 # Systems Programming in C/C++
 
@@ -43,7 +43,7 @@ Bergsteigen ohne Sicherungsseil. Man spart sich das zeitaufwendige Absichern,
 jedoch ein Fehltritt kann zum Verderben führen. Am Computer sind dies
 Systemabstürze und Speicherfresser. Ihr kennt alle die Absturznachricht von
 Windows.
-![Image](./images/house.jpg)
+{{< img src="images/house.jpg" >}}
 
 # Event Driven Computing
 
@@ -54,7 +54,7 @@ ist eine gute Ergänzung zu meinen bisherigen Computer Science Kursen, von denen
 die meisten Event Driven Computing angeschnitten haben. Bisher hatte ich jedoch
 noch keinen Kurs, der intensiv über das Thema gesprochen hat und sich
 ausschließlich damit befasst.
-![Image](./images/moon.jpg)
+{{< img src="images/moon.png" >}}
 
 # Astronomy
 
@@ -77,6 +77,6 @@ grundlegenden Wissen in der Astronomie. Was ist Nuklearfusion? Wie entstehen
 Elemente? Welche Techniken benutzen wir, um Sterne zu erforschen? Wie entstehen
 Galaxien und Sonnensysteme? All das und noch viel mehr sauge ich jede Woche auf
 und ich liebe es einfach, in der Vorlesung zu sitzen und meinem Professor zu zuhören.
-![Image](./images/night.jpg)
+{{< img src="images/night.jpg" >}}
 
 Die meisten Bilder haben nichts mit dem Thema zu tun und haben einfach so ihren Weg in den Artikel gefunden.

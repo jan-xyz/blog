@@ -15,7 +15,7 @@ finishing their coffee everyone was ready to board the bus and we managed to
 leave the campsite only with a slight delay. We left most of our stuff in the
 girls' tent since we would spent the next night on the very same campsite.
 
-![Image](./images/entry.jpg)
+{{< img src="images/entry.jpg" >}}
 
 The Park was just plain impressive, we decided to go to Litchfield instead of
 Kakadu National Park out of several reasons. Although Kakadu is the better
@@ -28,7 +28,7 @@ you already an idea on how vast it is. In contrast, Litchfield is just fraction
 of the size, we managed to see most of the accessible parts in a day and the
 entrance was free (YIIHAAA).
 
-![Image](./images/termites.jpg)
+{{< img src="images/termites.jpg" >}}
 
 The first stop in the park was the magnetic termites. We were joking in the car
 trying to make up stories why they might be called magnetic termites. Maybe
@@ -48,7 +48,7 @@ while the sun is at its highest. The field on which the termites build their
 mounds felt a little bit like a grave yard with these perfectly aligned
 tombstone-like structures.
 
-![Image](./images/termites2.jpg)
+{{< img src="images/termites2.jpg" >}}
 
 At that point we were already feeling the heat again and it wasn't even
 the hottest part of the day yet. We were craving for a cool pool to relax our
@@ -63,7 +63,7 @@ that were just perfect for swimming, jumping and relaxing, little waterfalls
 ran into the pools on one side. We spend several hours in the water before we
 decided to see more from the park.
 
-![Image](./images/buley.jpg)
+{{< img src="images/buley.jpg" >}}
 
 The Buley Rockhole, after winding through a bit of forest, was actually turning
 into a huge waterfall. The most impressive that I have ever seen in my life. I
@@ -71,7 +71,7 @@ haven't seen many but this was just pure beauty and another opportunity
 for a perfect swim. We plunged around, jumped into the water and spend some
 more time.
 
-![Image](./images/florence.jpg)
+{{< img src="images/florence.jpg" >}}
 
 We were happy to see that most of the attractions in Litchfield seem to be
 waterfalls so we headed our way and went to the next one. It was a little
@@ -79,8 +79,8 @@ bummer to actually find out that that one wasn't accessible for swimming.
 However, it gave an impressive view on the waterfall as well as the surrounding
 nature.
 
-![Image](./images/tolmer2.jpg)
-![Image](./images/tolmer.jpg)
+{{< img src="images/tolmer2.jpg" >}}
+{{< img src="images/tolmer.jpg" >}}
 
 A look at our watch revealed that it was getting late and sun set was only in a
 few ours, getting back to the campsite was already an hour trip. Since we now
@@ -96,7 +96,7 @@ mine was merely a house with a hole in the ground. During the active time of
 the mine the ground was covered with tin plates that the workers collected,
 broke into pieces and sold.
 
-![Image](./images/car.jpg)
+{{< img src="images/car.jpg" >}}
 
 The last stop for this day was checked, Orion took over the driving and brought
 us safely home. It was really quite something to drive, it didn't feel
@@ -105,6 +105,6 @@ campsite we topped up for gas, and got a jerry can for free as the woman at the
 countered didn't seem to know what she was doing, but we only recognized
 that later and were even more happy.
 
-![Image](./images/birds.jpg)
+{{< img src="images/birds.jpg" >}}
 
 Next: [Mataranka – Swimming with crocodiles](../day_05)

@@ -53,10 +53,10 @@ Zum Schluss genießt noch mal ein paar Bilder, die nichts mit diesem Beitrag zu
 tun haben. Das erste ist ein Bild von meinem Haus, gefolgt von ein paar Bildern
 vom Strand in Glenelg (lest es rückwärts!).
 
-![Image](./images/house.jpg)
-![Image](./images/flying.jpg)
-![Image](./images/rock.jpg)
-![Image](./images/splash.jpg)
-![Image](./images/sunset.jpg)
-![Image](./images/waves.jpg)
-![Image](./images/whaling.jpg)
+{{< img src="images/house.jpg" >}}
+{{< img src="images/flying.jpg" >}}
+{{< img src="images/rock.jpg" >}}
+{{< img src="images/splash.jpg" >}}
+{{< img src="images/sunset.jpg" >}}
+{{< img src="images/waves.jpg" >}}
+{{< img src="images/whaling.jpg" >}}

@@ -13,7 +13,7 @@ Campingstelle neben einer riesigen Grasfläche mit Kängurus uns Wallabies war.
 Orion und ich sind erstmal mit der Kamera losgezogen, um das Gelände zu
 erkunden.
 
-![Image](./images/trees.jpg)
+{{< img src="images/trees.jpg" >}}
 
 Kangaroo Island war ein unglaublich majestätischer und dieser unberührte Ort
 war einfach der perfekte Ort um den Stress der Wüste von unseren Schultern zu
@@ -25,20 +25,20 @@ Nach dem Frühstück sind wir zum Strand aufgebrochen; Jamie ist gleich erstmal
 schwimmen gegangen, Orion und ich haben ne Burg gebaut, Maddy hat gelesen. Das
 alles war schon fast zu entspannt.
 
-![Image](./images/snorkling.jpg)
-![Image](./images/photograph.jpg)
-![Image](./images/rocks.jpg)
-![Image](./images/jamie.jpg)
-![Image](./images/flowers.jpg)
-![Image](./images/meadow.jpg)
-![Image](./images/butterfly.jpg)
-![Image](./images/creek.jpg)
-![Image](./images/wood.jpg)
-![Image](./images/parking.jpg)
-![Image](./images/shell.jpg)
-![Image](./images/orion.jpg)
-![Image](./images/wave.jpg)
-![Image](./images/meadow2.jpg)
-![Image](./images/creek2.jpg)
+{{< img src="images/snorkling.jpg" >}}
+{{< img src="images/photograph.jpg" >}}
+{{< img src="images/rocks.jpg" >}}
+{{< img src="images/jamie.jpg" >}}
+{{< img src="images/flowers.jpg" >}}
+{{< img src="images/meadow.jpg" >}}
+{{< img src="images/butterfly.jpg" >}}
+{{< img src="images/creek.jpg" >}}
+{{< img src="images/wood.jpg" >}}
+{{< img src="images/parking.jpg" >}}
+{{< img src="images/shell.jpg" >}}
+{{< img src="images/orion.jpg" >}}
+{{< img src="images/wave.jpg" >}}
+{{< img src="images/meadow2.jpg" >}}
+{{< img src="images/creek2.jpg" >}}
 
 Als Nächstes: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](../day_14)

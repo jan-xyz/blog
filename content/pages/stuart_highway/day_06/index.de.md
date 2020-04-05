@@ -8,9 +8,9 @@ title: Devil's Marbles - Ein Tag im Auto bis zum Sonnenuntergang
 
 Previous: [Mataranka – Swimming with crocodiles](../day_05)
 
-![Image](./images/jamie.jpg)
-![Image](./images/planking.jpg)
-![Image](./images/marbles.jpg)
+{{< img src="images/jamie.jpg" >}}
+{{< img src="images/planking.jpg" >}}
+{{< img src="images/marbles.jpg" >}}
 
 This was a very uninteresting day. We spent most of the time in the car. I was
 sleeping most of the time and only woke up for the breaks. It took us until
@@ -20,9 +20,9 @@ park. Hundreds of rocks that are almost perfectly shaped. That is where they
 got their name from. Over a myriad of years wind, sand and rain weathered the
 rocks.
 
-![Image](./images/jan.jpg)
-![Image](./images/birds_eye.jpg)
-![Image](./images/between.jpg)
+{{< img src="images/jan.jpg" >}}
+{{< img src="images/birds_eye.jpg" >}}
+{{< img src="images/between.jpg" >}}
 
 After we watched the Sun set at the rocks we went to the campsite ~10min from
 the rocks, made dinner, got a short refresh in the pool. While the others went

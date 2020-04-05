@@ -4,7 +4,7 @@ date: '2013-07-22'
 title: Adelaides Hinterland
 ---
 
-![Image](./images/hills.jpg)
+{{< img src="images/hills.jpg" >}}
 
 Zwei Wochen sind vergangen seidem ich in Adelaide gelandet bin und es ist
 einiges passiert. Aber das wichtigste und größte Erlebnis war letztes
