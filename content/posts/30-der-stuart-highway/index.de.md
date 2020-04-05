@@ -3,8 +3,7 @@ author: Jan
 date: '2013-10-06'
 title: Der Stuart Highway
 ---
-{{< img src="./images/road.jpg" alt="Screenshot of the Onion homepage" >}}
-![Image](./images/road.jpg)
+{{< img src="images/road.jpg" >}}
 
 
 Es war ein regnerischer Samstag morgen in Adelaide. Zwei Männer warten in einem
@@ -55,4 +54,4 @@ Tag 14: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](/pages/
 
 Tag 15: [Adelaide - Zeit zum Entspannen](/pages/stuart_highway/day_15)
 
-![Image](./images/map.png)
+{{< img src="images/map.png" >}}
