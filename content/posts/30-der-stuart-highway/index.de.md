@@ -3,6 +3,7 @@ author: Jan
 date: '2013-10-06'
 title: Der Stuart Highway
 ---
+{{< img src="./images/road.jpg" alt="Screenshot of the Onion homepage" >}}
 ![Image](./images/road.jpg)
 
 
