@@ -9,6 +9,7 @@ timeout = "120s"
 [params]
   twitter = "https://twitter.com/janxyz"
   github = "https://github.com/jan-xyz"
+  site_logo = "/img/logo.svg"
 
 [languages]
   [languages.de]
