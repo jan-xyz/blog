@@ -6,3 +6,6 @@ build:
 
 serve:
 	hugo serve
+
+clean:
+	hugo --gc
