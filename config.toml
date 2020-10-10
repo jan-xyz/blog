@@ -10,6 +10,7 @@ timeout = "120s"
   twitter = "https://twitter.com/janxyz"
   github = "https://github.com/jan-xyz"
   site_logo = "/img/logo.svg"
+  show_reading_time = true
 
 [languages]
   [languages.de]
