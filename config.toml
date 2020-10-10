@@ -4,7 +4,7 @@ title = "Eine weitere Selbstdarstellung"
 theme = "gohugo-theme-ananke"
 DefaultContentLanguage = "de"
 Paginate = 9
-timeout = "90s"
+timeout = "120s"
 
 [params]
   twitter = "https://twitter.com/janxyz"
