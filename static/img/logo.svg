@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="color-2" bx:pinned="true">
+    <linearGradient id="color-2">
       <stop style="stop-color: #4ecca3;"/>
     </linearGradient>
   </defs>
