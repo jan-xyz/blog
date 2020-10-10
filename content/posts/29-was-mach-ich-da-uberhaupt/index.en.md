@@ -20,7 +20,7 @@ humanities courses that I want to include into my repertoire. For that
 Cognitive Science was like a savior. It is a philosophic course about
 artificial and netural intelligence. How do people think? How do we organize
 knowledge? What methods do we use for computation?
-{{< img src="images/glass.jpg" >}}
+![Text](images/glass.jpg)
 
 **Systems Programming in C/C++**
 
@@ -38,7 +38,7 @@ is a bit like rock climbing without a rope. You safe time that you'd spent on
 securing yourself but might die if you make a wrong step. For a computer a
 wrong step means a system crash á la BSOD(Blue screen of Death). You all know
 that from your beloved Windows Computer.
-{{< img src="images/house.jpg" >}}
+![Text](images/house.jpg)
 
 **Event Driven Computing**
 
@@ -48,7 +48,7 @@ Maastricht that incorporated that concept and talked about it but I never had
 a dedicated course that only focuses on this concept. Nowadays Event Driven
 Computing is the founding block of many programs from TVs to elevators and
 breaking systems in cars.
-{{< img src="images/moon.png" >}}
+![Text](images/moon.png)
 
 **Astronomy**
 
@@ -72,6 +72,6 @@ organisms need to survive? What techniques do we use to explore the stars?
 How are Galaxies and Solar Systems formed? All this and much more is what I
 absorb every week and I love it to just sit back in a lecture and listen to the
 wonders of the Universe.
-{{< img src="images/night.jpg" >}}
+![Text](images/night.jpg)
 
 Most of the pictures are completely unrelated and just happen to be in the article by accident.

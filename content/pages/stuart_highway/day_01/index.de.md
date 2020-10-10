@@ -17,7 +17,7 @@ Urlaub in Darwin und Umgebung. Wir hatten kleinere Unterhaltungen mit ihnen und
 teilten den Bus in die Innenstadt von Darwin. Unser Hostel (Dingo Moon Lodge)
 war exzellent ausgerüstet und hatte einen Pool, um der Hitze zu entkommen.
 
-{{< img src="images/orion.jpg" >}}
+![Text](images/orion.jpg)
 
 Als wir im Hostel ankamen gingen Lin und Maddy erstmal einkaufen, um am
 nächsten Tag was zum Mittagessen zu haben, währen Orion, Jamie und ich im Pool
@@ -25,6 +25,6 @@ blieben. Als es dunkler wurde machten wir uns fertig, um in die Stadt zu gehen.
 Orion wollte unbedingt Krokodilfleisch probieren und somit machten wir uns auf
 die Suche nach einem Restaurant.
 
-{{< img src="images/crocodile.jpg" >}}
+![Text](images/crocodile.jpg)
 
 Als Nächstes: [Darwin - Der Mindil Beach](../day_02)

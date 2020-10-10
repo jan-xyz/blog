@@ -8,7 +8,7 @@ title: King's Canyon - Ein Gewitter am Abend
 
 Previous: [Alice Springs - Refreshing, getting back on track](../day_07)
 
-{{< img src="images/orion.jpg" >}}
+![Text](images/orion.jpg)
 
 We wanted to get as soon as possible to the Canyon to be able to spend some
 more time relaxing. Up until now we spend the majority of the time in the car
@@ -31,7 +31,7 @@ viewing platform to see the canyon and saw an awesome thunder show. I
 didn't get a nice picture of it but it is in my head and it was
 wonderful!
 
-{{< img src="images/canyon.jpg" >}}
+![Text](images/canyon.jpg)
 
 We got back to the campsite because the next day we conquered the canyon!
 

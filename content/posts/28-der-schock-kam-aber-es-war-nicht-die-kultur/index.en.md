@@ -18,10 +18,10 @@ And don't get my started on the students' Right now, I just want my cozy common 
 
 Finally, enjoy some picture that are totally unrelated. My house and a few pictures of the beach in Glenelg (Try reading it backwards!).
 
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5268.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5211.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5217.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5235.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5237.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5239.jpg)
-![Image](https://jan-steinke.de/wordpress/wp-content/uploads/2013/08/SAM_5258.jpg)
+![Text](images/house.jpg)
+![Text](images/flying.jpg)
+![Text](images/rock.jpg)
+![Text](images/splash.jpg)
+![Text](images/sunset.jpg)
+![Text](images/waves.jpg)
+![Text](images/whaling.jpg)

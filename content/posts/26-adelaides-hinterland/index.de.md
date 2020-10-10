@@ -4,7 +4,7 @@ date: '2013-07-22'
 title: Adelaides Hinterland
 ---
 
-{{< img src="images/hills.jpg" >}}
+![Text](images/hills.jpg)
 
 Zwei Wochen sind vergangen seidem ich in Adelaide gelandet bin und es ist
 einiges passiert. Aber das wichtigste und größte Erlebnis war letztes
@@ -32,7 +32,7 @@ die um einiges älter waren als ich, saßen und standen gemütlich zusammen,
 aßen Snacks und tranken Wein. Ich hab mich über den Abend mit vielen der
 Freunde unterhalten, die alle super nett waren.
 
-![Zwei Kängurus im Eukalyptuswald](./images/kangaroos.jpg)
+![Text](images/kangaroos.jpg)
 
 Am nächsten morgen war es etwas entspannter, die meisten Gäste waren Abends
 noch gefahren. Wir aßen gemeinsam Frühstück und ließen den Tag langsam starten.

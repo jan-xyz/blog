@@ -17,7 +17,7 @@ still lying ahead of us. We only had 1 longer stop in Katherine to stock up
 some of our groceries and tell the world where we were (No mobile reception
 since Darwin).
 
-{{< img src="images/jan.jpg" >}}
+![Text](images/jan.jpg)
 
 When 5 people who never met before get together and decide to go on a vacation
 for 2 weeks it is already predestined that it won't be as smooth as you
@@ -52,8 +52,8 @@ quite hot and you felt exhausted and sleepy afterwards. This one was completely
 different. It was the perfect temperature. However, since we only had one day
 in the city we decided to go for a walk around to see some other things.
 
-{{< img src="images/sign.jpg" >}}
-{{< img src="images/swimming.jpg" >}}
+![Text](images/sign.jpg)
+![Text](images/swimming.jpg)
 
 The next thing was the river that the hot springs poured in to. A sign told us
 that it was "harmless" to swim in. After the rainy season there
@@ -72,7 +72,7 @@ see the banks and all access to the water. We went around and checked
 everything before we went bathing. It was awesome. We stayed there for a couple
 more hours and enjoyed the nature.
 
-{{< img src="images/pond.jpg" >}}
+![Text](images/pond.jpg)
 
 On our way back to the van we stopped at the hot springs where we met the
 girls, stayed there for a bit and then end the day. After dinner they went back

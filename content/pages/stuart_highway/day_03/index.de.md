@@ -17,7 +17,7 @@ eralubte. Es stellte sich heraus, dass das Kriterium das schwierigste war. Wir
 fanden reihenweise Vermieter, die günstig waren. Wir fanden nur einen unter
 denen, der auch Fahrer unter 21 erlaubte: Wicked.
 
-{{< img src="images/wicked.jpg" >}}
+![Text](images/wicked.jpg)
 
 Wicked ist eine interessante Firma. Jeder Australier hat auf irgendeine Art und
 Weise schon mal von Wicked gehört. Es ist wohl bekannt für schlechte
@@ -27,7 +27,7 @@ kaputte Motoren und anderes. Wie auch immer, es ist nicht wirklich klar für
 mich, ob das an der Tatsache liegt, dass sie auch an junge Fahrer vermieten
 oder an mangelnder Kontrolle der Fahrzeuge.
 
-{{< img src="images/mady.jpg" >}}
+![Text](images/mady.jpg)
 
 Fakt ist, dass Wicked billig ist, sie statten die Fahrzeuge nur mit dem absolut
 notwendigen aus, geben Fahrzeuge mit fast leeren Tank aus und akzeptieren leere
@@ -48,7 +48,7 @@ dem Tresen hatten wir endlich einen Deal, mit dem wir alle zufrieden waren.
 Wir bekamen das Geld für das Zelt erstattet und auch einen Preisnachlass bei
 der Miete.
 
-{{< img src="images/camping.jpg" >}}
+![Text](images/camping.jpg)
 
 Die ganze Verhandlung hatte uns aber wertvolle Zeit gekostet, die wir
 eigentlich auf dem Adelaide River verbringen wollten, um Salzwasserkrokodile zu
@@ -64,6 +64,6 @@ Campingplatz in der Nähe des Litchfield Nationalparks an. Ein sehr hektischer
 und langer Tag ging zu Ende. Wir wurden aber mit einem wundervollen klaren
 Nachthimmel belohnt.
 
-{{< img src="images/sky.jpg" >}}
+![Text](images/sky.jpg)
 
 Als nächstes: [In Litchfield - Von Wasserfällen und Sonnenbaden](../day_04)

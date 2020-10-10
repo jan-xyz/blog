@@ -12,29 +12,29 @@ Heute war wieder Sightseeing angesagt. Wir haben die bekannten Orte auf
 Kangaroo Island abgeklappert: Den Leuchtturm, die Robben, die
 "Remarkable" Rocks und wir haben sogar einen Koala gefunden.
 
-{{< img src="images/lighthouse.jpg" >}}
+![Text](images/lighthouse.jpg)
 
 Ein Pfad führte vom Leuchtturm ans Meer und eröffnete den Blick in einen
 wunderbaren natürlichen Torbogen, der von den Wellen in den Stein geschliffen
 wurde.
 
-{{< img src="images/hole.jpg" >}}
+![Text](images/hole.jpg)
 
 Allerdings war das nicht der einzige "Ausblick": Robben, die auf den warmen
 Steinen schliefen und Steinformationen in der Ferne.
 
-{{< img src="images/seals_sun.jpg" >}}
-{{< img src="images/seals_pool.jpg" >}}
-{{< img src="images/maddy.jpg" >}}
+![Text](images/seals_sun.jpg)
+![Text](images/seals_pool.jpg)
+![Text](images/maddy.jpg)
 
 Die Steinformation war unser nächstes Ziel, Überbleibsel der Vergangenheit. Ein
 harter Stein trifft hier auf weichen Sandstein, der über die Jahre von Wind,
 Sand und Wasser frei geschliffen wurde.
 
-{{< img src="images/jamie1.jpg" >}}
-{{< img src="images/jamie2.jpg" >}}
-{{< img src="images/jamie3.jpg" >}}
-{{< img src="images/rock.jpg" >}}
+![Text](images/jamie1.jpg)
+![Text](images/jamie2.jpg)
+![Text](images/jamie3.jpg)
+![Text](images/rock.jpg)
 
 Wir beendeten den Tag auf einem Campingplatz mit warmer Dusche und Kochstelle.
 Wir genossen unseren letzten Tag auf der Straße und hätten sogar fast geschafft

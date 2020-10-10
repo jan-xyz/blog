@@ -16,7 +16,7 @@ longest stretches of that trip. It took us almost 10 hours to get to Coober
 Pedy and we were all just dead tired once we arrived. We only made stops when
 it was really necessary: toilet, fuel, state border.
 
-{{< img src="images/border.jpg" >}}
+![Text](images/border.jpg)
 
 One funny thing, that actually wasn't that funny was that we had to
 surrender all vegetables and fruits at the state boarder. Once we crossed over
@@ -36,14 +36,14 @@ side of the road and as far as we could see marked the spots where miners were
 digging for precious stones. What stones you ask? Well, Coober Pedy is renown
 for its opals. The town is the largest opal mine in the world.
 
-{{< img src="images/opals.jpg" >}}
-{{< img src="images/view.jpg" >}}
-{{< img src="images/pitch_black1.jpg" >}}
-{{< img src="images/pitch_black2.jpg" >}}
-{{< img src="images/pitch_black3.jpg" >}}
-{{< img src="images/pizza.jpg" >}}
-{{< img src="images/room.jpg" >}}
-{{< img src="images/hostel.jpg" >}}
+![Text](images/opals.jpg)
+![Text](images/view.jpg)
+![Text](images/pitch_black1.jpg)
+![Text](images/pitch_black2.jpg)
+![Text](images/pitch_black3.jpg)
+![Text](images/pizza.jpg)
+![Text](images/room.jpg)
+![Text](images/hostel.jpg)
 
 Since it was already late when we finally arrived in our hostel we decided to
 postpone the exploration to the next morning.

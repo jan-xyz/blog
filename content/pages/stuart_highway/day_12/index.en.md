@@ -13,10 +13,10 @@ more windy it got and it started raining. However, we were prepared, had warm
 cloth and jackets. After all: we were back in the moderate south and not the
 warm and dry desert anymore.
 
-{{< img src="images/waves.jpg" >}}
-{{< img src="images/mady.jpg" >}}
-{{< img src="images/jamie.jpg" >}}
-{{< img src="images/mady2.jpg" >}}
+![Text](images/waves.jpg)
+![Text](images/mady.jpg)
+![Text](images/jamie.jpg)
+![Text](images/mady2.jpg)
 
 After only an hour (which seems really short compared to the previous distances
 we travelled) we arrived at the pier. We had to wait a little for the ferry so
@@ -40,6 +40,6 @@ We made it to our campsite. It was completely empty, and only a small hut with
 toilets, no showers and pure peacefulness. We set up camp and enjoyed the night
 at the beach watching stars, listening to the waves. It was paradise.
 
-{{< img src="images/dinner.jpg" >}}
+![Text](images/dinner.jpg)
 
 Next: [Kangaroo Island – Waking up in paradise](../day_13)

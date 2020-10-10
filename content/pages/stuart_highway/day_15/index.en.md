@@ -16,5 +16,5 @@ people I met and travelled with. We had our differences and that was
 unfortunate but nevertheless it was a great and fun trip with you. Thank you
 for being awesome!
 
-{{< img src="images/entry.jpg" >}}
+![Text](images/entry.jpg)
 
