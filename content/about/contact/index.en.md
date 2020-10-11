@@ -4,7 +4,7 @@ date: 2013-08-03 08:02:37
 title: Contact
 ---
 
-![Text](images/profile.jpg)
+![](images/profile.jpg)
 
 * Name: Jan S.
 * Currently: Hamburg, Germany
