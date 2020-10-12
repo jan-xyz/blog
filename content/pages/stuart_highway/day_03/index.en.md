@@ -17,7 +17,7 @@ the most limiting. We found a great amount of budget companies that rent out
 vans for an acceptable price. However, only one allowed drivers younger than
 21: Wicked.
 
-![Text](images/wicked.jpg)
+![](images/wicked.jpg)
 
 Wicked is an interesting company. Every citizen of Australia heard at one point
 about this company. It is well known for their sloppy maintenance and Wicked
@@ -25,7 +25,7 @@ cars tend to be more involved in accidents than other rental companies. That
 includes broken tires, engine, etc. However, it is not clear if that is just
 due to the young clientele or faulty maintenance.
 
-![Text](images/mady.jpg)
+![](images/mady.jpg)
 
 The facts about Wicked are they are cheap, they only provide the minimal you
 need, they provide empty tanks and accept empty tanks, they accept young
@@ -41,7 +41,7 @@ outback if you only have 3 spots at night? We had to buy a 2 person tent. After
 counter, we finally got compensation for the tent as well as discounts on the
 car. A deal that we all were able to live with.
 
-![Text](images/camping.jpg)
+![](images/camping.jpg)
 
 The whole negotiation cost us a lot of time. We initially planned on leaving
 Darwin around 12 and get to the Adelaide River to take a tour to see Saltwater
@@ -56,6 +56,6 @@ campsite close to Litchfield National Park just minutes before it good pitch
 black. A very hectic and long day finally ended. We were rewarded with a clear
 night sky.
 
-![Text](images/sky.jpg)
+![](images/sky.jpg)
 
 Next: [In Litchfield – Of Waterfalls and basking](../day_04)

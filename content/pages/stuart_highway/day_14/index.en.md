@@ -11,27 +11,27 @@ Previous:  [Kangaroo Island – Waking up in paradise](../day_13)
 Today was sightseeing again. We went to see the famous landmarks of Kangaroo
 Island: The lighthouse, the seals, the remarkable rocks and we found a koala.
 
-![Text](images/lighthouse.jpg)
+![](images/lighthouse.jpg)
 
 A path led from the light house down to the sea and opened the view to a
 wonderful arch that was caved by waves into the rock.
 
-![Text](images/hole.jpg)
+![](images/hole.jpg)
 
 However, that was not the only thing to see down there: Seals were sleeping on
 the rocks in the sun, and a collection of rocks was visible in the distance.
 
-![Text](images/seals_sun.jpg)
-![Text](images/seals_pool.jpg)
-![Text](images/maddy.jpg)
+![](images/seals_sun.jpg)
+![](images/seals_pool.jpg)
+![](images/maddy.jpg)
 
 Those rocks were our next destination. They are some remnants of the past. A
 harder rock than the surrounding that was carved by wind, sand and weather.
 
-![Text](images/jamie1.jpg)
-![Text](images/jamie2.jpg)
-![Text](images/jamie3.jpg)
-![Text](images/rock.jpg)
+![](images/jamie1.jpg)
+![](images/jamie2.jpg)
+![](images/jamie3.jpg)
+![](images/rock.jpg)
 
 We finished the day on a camp ground with amenities so we could shower and cook
 properly. It was really nice and we enjoyed the last night on the road. We

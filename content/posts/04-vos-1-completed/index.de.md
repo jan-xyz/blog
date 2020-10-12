@@ -4,7 +4,7 @@ date: '2010-03-29'
 title: VOS 1 completed!
 ---
 
-![Text](images/cheese.jpg) Das Wochenende ist vorbei und viele Eindrücke,
+![](images/cheese.jpg) Das Wochenende ist vorbei und viele Eindrücke,
 Ideen, Erwartungen und Ängste wurden völlig über Bord geschmissen oder kamen
 neu dazu! Auf jeden Fall war das Seminar eine tolle und hilfreiche Zeit,
 während der man gleichgesinnte kennengelernt hat und eine neue Denkweise über

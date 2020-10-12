@@ -15,19 +15,19 @@ stops:
 Stop 1: Wycliffe Well claims to be Australia's premier UFO spot. Whatever
 that means. UFO's yeah sure.
 
-![Text](images/alien.jpg)
+![](images/alien.jpg)
 
 Stop 2: We visited a Mango Farm. The guys got fresh mango ice cream, had a chat
 with the girl behind the counter aaand we took off again. We still needed to
 get to Alice Springs that day.
 
-![Text](images/quad.jpg)
+![](images/quad.jpg)
 
 Stop 3: Aileron. A small community of artists live in Aileron and build 3
 massive figures. We didn't stay long and all the buildings were closed.
 But it was really quite something.
 
-![Text](images/sculpture.jpg)
+![](images/sculpture.jpg)
 
 The next stop was Alice Springs. On the way we found out that hostels were
 actually cheaper than campsites so we quickly looked up a hostel and pulled

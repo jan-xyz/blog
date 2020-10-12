@@ -20,7 +20,7 @@ fühle mich wieder als wäre ich 5 oder 6 Jahre alt und zähl die Tage runter bi
 es weihnachtet. Etwas, das ich schon so lange nicht mehr gemacht habe. Oh what
 a holy night.
 
-![Text](images/wedding.jpg)
+![](images/wedding.jpg)
 „That was the Turning Point“ heißt es nun und das ist der größere Teil meines
 Eintrages. Der neuste Mensch in Maltes und meinem Leben ist Pheobe. Sie
 organisiert, manipuliert und diktiert unser Leben. So negativ es auch klingen
@@ -40,7 +40,7 @@ anschließend ein Studenten-Visum, das 12 Monate gültig ist, zu bekommen.
 Hätten wir sie vorher kennen gelernt, dann hätten wir schon einiges an Geld,
 das wir in unsere Verlängerungen gesteckt haben, gespart.
 
-![Text](images/balu.jpg) Nun belegen wir einige Kurse an ihrem College und
+![](images/balu.jpg) Nun belegen wir einige Kurse an ihrem College und
 sind mitten in der Bewerbung für das Studentenvisum, dessen Papierkram, der
 noch vor uns liegt, jetzt in den nächsten Tagen abgearbeitet wird. Wir belegen
 Computer Architecture, Computer Concept und Adobe Photoshop. Nicht meine
@@ -61,7 +61,7 @@ hat nichts geschafft zu haben, hat man trotzdem ein gutes Gefühl und man erlebt
 immer was anderes. Es ist nicht mehr das zu Hause sitzen, sondern das ganz
 eigene Gefühl von Erlebnis.
 
-![Text](images/lights.jpg)Neben diesen großen Veränderungen gibt es auch
+![](images/lights.jpg)Neben diesen großen Veränderungen gibt es auch
 genug kleine Sachen, die man nicht vergessen sollte zu erwähnen. Zum Beispiel
 haben wir vor einigen Wochen die fröhliche Nachricht bekommen, dass wir bald
 Gastonkel werden. Es dauert noch bis Ende Juli, das bedeutet, es ist wirklich
@@ -73,7 +73,7 @@ Flieger in Bremen. Immer noch der 8. August! Unglaublich, oder? Ich weiß!
 So viel Informationen in einem kleinen Absatz, ich hoffe ich verlange euch da
 nicht zu viel ab und ihr könnt alles gut verarbeiten!
 
-![Text](images/manila.jpg)Nun sitze ich hier in Manila, man kommt halt doch
+![](images/manila.jpg)Nun sitze ich hier in Manila, man kommt halt doch
 nicht davon los, und schreibe diese Zeilen. Wenn ich es mit dem Anfang
 vergleiche ist es doch ein ganz anderes Gefühl, wenn ich hier durch die Gegend
 spaziere. Man sieht eben doch alles anders, wenn man gut gelaunt ist. Ich habe

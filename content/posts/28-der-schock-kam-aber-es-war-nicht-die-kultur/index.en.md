@@ -18,10 +18,10 @@ And don't get my started on the students' Right now, I just want my cozy common 
 
 Finally, enjoy some picture that are totally unrelated. My house and a few pictures of the beach in Glenelg (Try reading it backwards!).
 
-![Text](images/house.jpg)
-![Text](images/flying.jpg)
-![Text](images/rock.jpg)
-![Text](images/splash.jpg)
-![Text](images/sunset.jpg)
-![Text](images/waves.jpg)
-![Text](images/whaling.jpg)
+![](images/house.jpg)
+![](images/flying.jpg)
+![](images/rock.jpg)
+![](images/splash.jpg)
+![](images/sunset.jpg)
+![](images/waves.jpg)
+![](images/whaling.jpg)

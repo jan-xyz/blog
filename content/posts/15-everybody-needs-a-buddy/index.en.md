@@ -49,7 +49,7 @@ bevor wir aufstehen, und kümmert sich um das Abendessen. Und meistens gehört
 auch unser Mittagessen dazu.
 
 Jetzt zu Tiger, Emerald und KP!
-![Text](images/the_crew.jpg)
+![](images/the_crew.jpg)
 
 Die drei sind ein fester Bestandteil unseres Teams und wir verbringen bisher
 die meisten Wochenenden mit mindestens einem von den dreien! Sunny und Lloyd
@@ -82,7 +82,7 @@ Wenn ich Langeweile habe, TV gucke oder an meinem Blog arbeite, liegt Buddy
 meist neben mir oder läuft umher. Er ist etwas hyperaktiv und ständig am
 Kratzen. Ist aber eher neurotisch als wegen Läusen.
 
-![Text](images/malte.jpg)
+![](images/malte.jpg)
 
 Des Weiteren haben wir seit 2 Wochen nun Filipino-Unterricht von einer netten
 Pinay namens Dang. Wir haben schon 3 Einheiten á 2h hinter uns und noch 3

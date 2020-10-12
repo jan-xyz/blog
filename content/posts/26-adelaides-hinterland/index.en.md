@@ -4,7 +4,7 @@ date: '2013-07-22'
 title: Adelaide's Hinterland
 ---
 
-![Text](images/hills.jpg)
+![](images/hills.jpg)
 
 It's two weeks since I arrived in Adelaide and a lot of stuff has happened. The
 most memorable of all is probably last weekend's trip into the Adelaide Hills.
@@ -27,7 +27,7 @@ nature. Fortunately, it is winter right now which means a lot of rain and green
 grass and trees. The birthday itself was very pleasant and I met a lot of
 Richard's oldest friends that were all nice and extremely welcoming.
 
-![Text](images/kangaroos.jpg)
+![](images/kangaroos.jpg)
 
 The next morning was relaxed because most guests left already. We had breakfast
 and enjoyed a slow Sunday morning. The original plan was to take a walk in the

@@ -16,7 +16,7 @@ few minutes outside of Darwin. It was a nice spot to get some nice souvenirs
 (I didn't buy anything). Jamie, our Newcastle boy, bought a new hat that was
 made from old Road Train canvas.
 
-![Text](images/jamies_hat.jpg)
+![](images/jamies_hat.jpg)
 
 You will see him wearing this in future pictures. the Mindil Beach market was a
 great opportunity to hang out that night. After it closed at around 9pm, Jamie,
@@ -25,7 +25,7 @@ The beach was covered with hermit crabs and it looked like the beach was
 running away from us as we walked on the beach towards city center. Back in the
 Hostel we killed some time by taking pictures in the pool.
 
-![Text](images/splash.jpg)
-![Text](images/orion.jpg)
+![](images/splash.jpg)
+![](images/orion.jpg)
 
 Next: [To Litchfield – The Wicked Experience](../day_03)
