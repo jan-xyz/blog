@@ -4,9 +4,9 @@ date: 2016-02-14 06:38:29
 title: Alice Springs - Auffrischen und weiter geht's!
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Previous: [Devil’s Marbles – A day in the car to see the sunset](../day_06)
+Previous: [Devil’s Marbles – A day in the car to see the sunset]({{< ref "../day_06/index.de.md" >}})
 
 Another very short and uninteresting day in terms of culture. We got up pretty
 early at the campsite and started going south. Along the way we had 3 short
@@ -59,4 +59,4 @@ present yourself.
 
 The next morning we packed the van and left Alice Springs towards King's Canyon.
 
-Next: [King’s Canyon – A thunderstorm in the evening](../day_08)
+Next: [King’s Canyon – A thunderstorm in the evening]({{< ref "../day_08/index.de.md" >}})

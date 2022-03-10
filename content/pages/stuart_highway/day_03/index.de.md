@@ -4,9 +4,9 @@ date: 2013-10-07 04:09:43
 title: Nach Litchfield - Das Wicked Erlebnis
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher: [Darwin - Der Mindil Beach](../day_02)
+Vorher: [Darwin - Der Mindil Beach]({{< ref "../day_02/index.de.md" >}})
 
 Während unserer Planung für den Trip hatten wir etliche Schwierigkeiten einen
 Campervan für die Reise zu finden. Das größte Kriterium war der Preis, da wir
@@ -66,4 +66,4 @@ Nachthimmel belohnt.
 
 ![](images/sky.jpg)
 
-Als nächstes: [In Litchfield - Von Wasserfällen und Sonnenbaden](../day_04)
+Als nächstes: [In Litchfield - Von Wasserfällen und Sonnenbaden]({{< ref "../day_04/index.de.md" >}})

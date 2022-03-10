@@ -4,9 +4,9 @@ date: 2016-02-13 14:20:10
 title: Adelaide – Zeit zum Entspannen
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](../day_14)
+Vorher: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen]({{< ref "../day_14/index.de.md" >}})
 
 Der letzte Tag ist angebrochen. Ein zweiwöchiger Trip geht zu Ende. Es gab kaum
 was zu machen, wir haben nur das Auto aufgeräumt und bei der Vermietung

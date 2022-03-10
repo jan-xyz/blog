@@ -4,9 +4,9 @@ date: 2014-06-24 01:09:09
 title: Kangaroo Island – Waking up in paradise
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous:  [Kangaroo Island – A rough sea, a majestic view](../day_12)
+Previous:  [Kangaroo Island – A rough sea, a majestic view]({{< ref "../day_12/index.en.md" >}})
 
 The next morning we woke up and found out that the campground was next to a
 huge meadow with kangaroos and wallabies grazing on. Me and Orion decided to
@@ -38,4 +38,4 @@ sandcastles and dams, Maddy read a book. It was all just too relaxing almost.
 ![](images/meadow2.jpg)
 ![](images/creek2.jpg)
 
-Next: [Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks](../day_14)
+Next: [Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks]({{< ref "../day_14/index.en.md" >}})

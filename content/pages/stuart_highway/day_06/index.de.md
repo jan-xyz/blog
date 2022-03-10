@@ -4,9 +4,9 @@ date: 2016-02-14 06:45:12
 title: Devil's Marbles - Ein Tag im Auto bis zum Sonnenuntergang
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Previous: [Mataranka – Swimming with crocodiles](../day_05)
+Previous: [Mataranka – Swimming with crocodiles]({{< ref "../day_05/index.de.md" >}})
 
 ![](images/jamie.jpg)
 ![](images/planking.jpg)
@@ -28,4 +28,4 @@ After we watched the Sun set at the rocks we went to the campsite ~10min from
 the rocks, made dinner, got a short refresh in the pool. While the others went
 to have a drink with a guy that we met on the campsite I went to bed.
 
-Next: [Alice Springs – Refreshing, getting back on track](../day_07)
+Next: [Alice Springs – Refreshing, getting back on track]({{< ref "../day_07/index.de.md" >}})

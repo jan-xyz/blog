@@ -4,9 +4,9 @@ date: 2016-02-14 06:31:41
 title: Uluru - Ein Felsen, der mich immer noch beeindruckt
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Previous: [King's Canyon - A thunderstorm in the evening](../day_07)
+Previous: [King's Canyon - A thunderstorm in the evening]({{< ref "../day_07/index.de.md" >}})
 
 Before we actually got to see Uluru we went to the Canyon that I talked about
 already. The King's Canyon was really close to our campsite and had two
@@ -69,4 +69,4 @@ to see the sunset. We found a good bay for our van and climbed on the roof to
 get a good view. In my opinion it looks the same. Still, it is a breath taking
 experience but the view at sunset, sunrise or day light is the same.
 
-Next: [Coober Pedy - Precious stones that rule the world](../day_10)
+Next: [Coober Pedy - Precious stones that rule the world]({{< ref "../day_10/index.de.md" >}})

@@ -6,9 +6,9 @@ title: Mataranka - Planschen mit Krokodilen
 
 Notiz: Dieser Artikel ist leider noch auf Englisch.
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher: [In Litchfield – Von Wasserfällen und Sonnenbaden](../day_04)
+Vorher: [In Litchfield – Von Wasserfällen und Sonnenbaden]({{< ref "../day_04/index.de.md" >}})
 
 The sun went up on one of our serious driving days. We had a long ride ahead
 due to out tight schedule. University didn't sleep for us and we had to
@@ -81,4 +81,4 @@ girls, stayed there for a bit and then end the day. After dinner they went back
 to the springs while I went to bed. I felt super exhausted but happy about
 everything we so until that day.
 
-Next:  [Devil’s Marbles – A day in the car to see the sunset](../day_06)
+Next:  [Devil’s Marbles – A day in the car to see the sunset]({{< ref "../day_06/index.de.md" >}})

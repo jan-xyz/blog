@@ -4,9 +4,10 @@ date: 2016-02-14 07:08:02
 title: Kangaroo Island - Aufgewühlte See, ein majestätischer Anblick
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation](
+{{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher: [Adelaide - Ein Stopp, ein bisschen Schlaf und neues packen](../day_11)
+Vorher: [Adelaide - Ein Stopp, ein bisschen Schlaf und neues packen]({{< ref "../day_11/index.de.md" >}})
 
 The next morning didn't promise a lot. The closer we got the coast the
 more windy it got and it started raining. However, we were prepared, had warm
@@ -42,4 +43,4 @@ at the beach watching stars, listening to the waves. It was paradise.
 
 ![](images/dinner.jpg)
 
-Next: [Kangaroo Island – Waking up in paradise](../day_13)
+Next: [Kangaroo Island – Waking up in paradise]({{< ref "../day_13/index.de.md" >}})

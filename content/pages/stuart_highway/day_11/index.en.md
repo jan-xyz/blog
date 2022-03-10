@@ -4,9 +4,9 @@ date: 2014-06-24 01:09:04
 title: Adelaide – A break, some sleep, repacking
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous: [Coober Pedy – Precious stones that rule the world](../day_10)
+Previous: [Coober Pedy – Precious stones that rule the world]({{< ref "../day_10/index.en.md" >}})
 
 Wow, we made it. We crossed Australia from North to South. What does that mean
 actually? Let's have a short recap:
@@ -28,4 +28,4 @@ into the van.
 However, we used the time to sleep one night in our own beds, we restocked on
 supplies and booked the tickets for the ferry.
 
-Next: [Kangaroo Island – A rough sea, a majestic view](../day_12)
+Next: [Kangaroo Island – A rough sea, a majestic view]({{< ref "../day_12/index.en.md" >}})

@@ -4,9 +4,9 @@ date: 2013-10-08 12:53:44
 title: In Litchfield - Von Wasserfällen und Sonnenbaden
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorherige: [Nach Litchfield - Das Wicked Erlebnis](../day_03)
+Vorherige: [Nach Litchfield - Das Wicked Erlebnis]({{< ref "../day_03/index.de.md" >}})
 
 Die erste Nacht campen war überraschend einfach. Wir hatten unsere Probleme die
 Betten im Van für uns drei fertig zu machen aber das wurde gen Ende des Trips
@@ -117,4 +117,4 @@ später beim Überprüfen der Kassenbelege und waren um so glücklicher.
 
 ![](images/birds.jpg)
 
-Als Nächstes: [Mataranka - Planschen mit Krokodilen](../day_05)
+Als Nächstes: [Mataranka - Planschen mit Krokodilen]({{< ref "../day_05/index.de.md" >}})

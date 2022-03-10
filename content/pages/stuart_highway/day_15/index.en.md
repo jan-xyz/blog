@@ -4,9 +4,9 @@ date: 2014-06-24 01:09:14
 title: Adelaide – Time to relax
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous:  [Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks](../day_14)
+Previous:  [Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks]({{< ref "../day_14/index.en.md" >}})
 
 The last day. A two week trip in the car is over. There wasn't much to do
 anymore, we cleaned up everything and took the van back to the rental.

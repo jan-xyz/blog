@@ -4,9 +4,10 @@ date: 2014-06-24 01:09:06
 title: Kangaroo Island – A rough sea, a majestic view
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation](
+{{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous:  [Adelaide – A break, some sleep, repacking](../day_11)
+Previous:  [Adelaide – A break, some sleep, repacking]({{< ref "../day_11/index.en.md" >}})
 
 The next morning didn't promise a lot. The closer we got the coast the
 more windy it got and it started raining. However, we were prepared, had warm
@@ -42,4 +43,4 @@ at the beach watching stars, listening to the waves. It was paradise.
 
 ![](images/dinner.jpg)
 
-Next: [Kangaroo Island – Waking up in paradise](../day_13)
+Next: [Kangaroo Island – Waking up in paradise]({{< ref "../day_13/index.en.md" >}})

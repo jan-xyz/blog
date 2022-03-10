@@ -4,7 +4,7 @@ date: '2013-10-06'
 title: Darwin - Krokodilfleisch
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
 Nach ein paar Stunden Flug hatten wir in etwa die Entfernung zwischen 
 Kopenhagen und Sevilla zurück gelegt und landeten in Darwin. Es war ein 
@@ -27,4 +27,4 @@ die Suche nach einem Restaurant.
 
 ![Orion und Lynn essen Krokodilfleisch](images/crocodile.jpg "drei junge Menschen sitzen an einem Tisch, zwei essen Krokodilfleisch auf einem Spieß.")
 
-Als Nächstes: [Darwin - Der Mindil Beach](../day_02)
+Als Nächstes: [Darwin - Der Mindil Beach]({{< ref "../day_02/index.de.md" >}})

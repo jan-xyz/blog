@@ -23,34 +23,49 @@ Wunder der Natur und die kurze Reise war gefüllt mit Spaß, Wut, Müdigkeit,
 Aktivität, Langeweile und Aufregung. Ich hab viel für die Zukunft gelernt und
 hatte erleuchtende Diskussionen mit den Leuten, die ich getroffen habe.
 
-Tag 1: [Darwin - Krokodilfleisch](/pages/stuart_highway/day_01/)
+Tag 1: [Darwin - Krokodilfleisch](
+{{< ref "/content/pages/stuart_highway/day_01/index.de.md" >}})
 
-Tag 2: [Darwin - Der Mindil Beach](/pages/stuart_highway/day_02)
+Tag 2: [Darwin - Der Mindil Beach](
+{{< ref "/content/pages/stuart_highway/day_02/index.de.md" >}})
 
-Tag 3: [Nach Litchfield - Das Wicked Erlebnis](/pages/stuart_highway/day_03)
+Tag 3: [Nach Litchfield - Das Wicked Erlebnis](
+{{< ref "/content/pages/stuart_highway/day_03/index.de.md" >}})
 
-Tag 4: [In Litchfield - Von Wasserfällen und Sonnenbaden](/pages/stuart_highway/day_04)
+Tag 4: [In Litchfield - Von Wasserfällen und Sonnenbaden](
+{{< ref "/content/pages/stuart_highway/day_04/index.de.md" >}})
 
-Tag 5: [Mataranka - Planschen mit Krokodilen](/pages/stuart_highway/day_05)
+Tag 5: [Mataranka - Planschen mit Krokodilen](
+{{< ref "/content/pages/stuart_highway/day_05/index.de.md" >}})
 
-Tag 6: [Devil's Marbles - Ein Tag im Auto bis zum Sonnenuntergang](/pages/stuart_highway/day_06)
+Tag 6: [Devil's Marbles - Ein Tag im Auto bis zum Sonnenuntergang](
+{{< ref "/content/pages/stuart_highway/day_06/index.de.md" >}})
 
-Tag 7: [Alice Springs - Auffrischen und weiter geht's!](/pages/stuart_highway/day_07)
+Tag 7: [Alice Springs - Auffrischen und weiter geht's!](
+{{< ref "/content/pages/stuart_highway/day_07/index.de.md" >}})
 
-Tag 8: [King's Canyon - Ein Gewitter am Abend](/pages/stuart_highway/day_08)
+Tag 8: [King's Canyon - Ein Gewitter am Abend](
+{{< ref "/content/pages/stuart_highway/day_08/index.de.md" >}})
 
-Tag 9: [Uluru - Ein Felsen, der mich immer noch beeindruckt](/pages/stuart_highway/day_09)
+Tag 9: [Uluru - Ein Felsen, der mich immer noch beeindruckt](
+{{< ref "/content/pages/stuart_highway/day_09/index.de.md" >}})
 
-Tag 10: [Coober Pedy - Edelsteine, die die Welt regieren](/pages/stuart_highway/day_10)
+Tag 10: [Coober Pedy - Edelsteine, die die Welt regieren](
+{{< ref "/content/pages/stuart_highway/day_10/index.de.md" >}})
 
-Tag 11: [Adelaide - Ein Stopp, ein bisschen Schlaf und neues packen](/pages/stuart_highway/day_11)
+Tag 11: [Adelaide - Ein Stopp, ein bisschen Schlaf und neues packen](
+{{< ref "/content/pages/stuart_highway/day_11/index.de.md" >}})
 
-Tag 12: [Kangaroo Island - Aufgewühlte See, ein majestätischer Anblick](/pages/stuart_highway/day_12)
+Tag 12: [Kangaroo Island - Aufgewühlte See, ein majestätischer Anblick](
+{{< ref "/content/pages/stuart_highway/day_12/index.de.md" >}})
 
-Tag 13: [Kangaroo Island - Erwachen im Paradies](/pages/stuart_highway/day_13)
+Tag 13: [Kangaroo Island - Erwachen im Paradies](
+{{< ref "/content/pages/stuart_highway/day_13/index.de.md" >}})
 
-Tag 14: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](/pages/stuart_highway/day_14)
+Tag 14: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](
+{{< ref "/content/pages/stuart_highway/day_14/index.de.md" >}})
 
-Tag 15: [Adelaide - Zeit zum Entspannen](/pages/stuart_highway/day_15)
+Tag 15: [Adelaide - Zeit zum Entspannen](
+{{< ref "/content/pages/stuart_highway/day_15/index.de.md" >}})
 
 ![Karte vom Roadtrip](images/map.png)

@@ -4,7 +4,7 @@ date: '2013-10-06'
 title: Darwin - Tasting Crocodile
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
 After a couple of hours flight, covering a distance that is approximately the
 distance from Copenhagen to Sevilla, we arrived in Darwin. It was a sunny and
@@ -26,4 +26,4 @@ crocodile so we sat down and enjoyed the finale of our first day.
 
 ![Orion and Lynn are eating corcodile meat](images/crocodile.jpg "three young people sitting at a table, two are eating crocodile meat on a stick.")
 
-Next: [Darwin - Mindil Beach](../day_02)
+Next: [Darwin - Mindil Beach]({{< ref "../day_02/index.en.md" >}})

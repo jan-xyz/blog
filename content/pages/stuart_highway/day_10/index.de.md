@@ -4,9 +4,9 @@ date: 2016-02-13 15:40:02
 title: Coober Pedy - Edelsteine, die die Welt regieren
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Previous: [Uluru - A rock that still impresses](../day_09)
+Previous: [Uluru - A rock that still impresses]({{< ref "../day_09/index.de.md" >}})
 
 In the morning we woke up pretty early to see the first sun rays hitting Uluru
 but as I said on my report for the previous day: I don't see the
@@ -54,4 +54,4 @@ It feels all to dead and lifeless. Not many people are walking around and
 everything seems like it was build for the sole purpose to serve the miners
 temporarily but not lasting.
 
-Next: [Adelaide – A break, some sleep, repacking](../day_11)
+Next: [Adelaide – A break, some sleep, repacking]({{< ref "../day_11/index.de.md" >}})

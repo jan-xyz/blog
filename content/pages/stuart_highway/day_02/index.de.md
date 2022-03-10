@@ -4,7 +4,7 @@ date: 2013-10-06 10:26:59
 title: Darwin – Der Mindil Beach
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
 Vorher: [Darwin - Krokodilfleisch](../day_01)
 

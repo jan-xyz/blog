@@ -4,9 +4,9 @@ date: '2013-10-06'
 title: Darwin – Mindil Beach
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous: [Darwin - Tasting Crocodile](../day_01)
+Previous: [Darwin - Tasting Crocodile]({{< ref "../day_01/index.en.md" >}})
 
 The first night away from Adelaide. We all woke up revitalized and ready to
 explore. This day was without any special events. We went to the wave pool in
@@ -28,4 +28,4 @@ Hostel we killed some time by taking pictures in the pool.
 ![](images/splash.jpg)
 ![](images/orion.jpg)
 
-Next: [To Litchfield – The Wicked Experience](../day_03)
+Next: [To Litchfield – The Wicked Experience]({{< ref "../day_03/index.en.md" >}})

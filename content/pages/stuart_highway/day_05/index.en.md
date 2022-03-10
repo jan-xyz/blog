@@ -4,9 +4,9 @@ date: 2016-02-14 06:49:45
 title: Mataranka - Swimming with Crocodiles
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous:  [In Litchfield – Of Waterfalls and basking](../day_04)
+Previous:  [In Litchfield – Of Waterfalls and basking]({{< ref "../day_04/index.en.md" >}})
 
 The sun went up on one of our serious driving days. We had a long ride ahead
 due to out tight schedule. University didn't sleep for us and we had to
@@ -79,4 +79,4 @@ girls, stayed there for a bit and then end the day. After dinner they went back
 to the springs while I went to bed. I felt super exhausted but happy about
 everything we so until that day.
 
-Next:  [Devil’s Marbles – A day in the car to see the sunset](../day_06)
+Next:  [Devil’s Marbles – A day in the car to see the sunset]({{< ref "../day_06/index.en.md" >}})

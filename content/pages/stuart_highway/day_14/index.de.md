@@ -4,9 +4,9 @@ date: 2016-02-13 15:19:27
 title: Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher:  [Kangaroo Island - Erwachen im Paradies](../day_13)
+Vorher:  [Kangaroo Island - Erwachen im Paradies]({{< ref "../day_13/index.de.md" >}})
 
 Heute war wieder Sightseeing angesagt. Wir haben die bekannten Orte auf
 Kangaroo Island abgeklappert: Den Leuchtturm, die Robben, die
@@ -42,4 +42,4 @@ ein Wallaby zum Abendessen ein zu laden.
 
 Eine Sache war nach diesem Tag klar, warum die Insel Kangaroo Island hieß.
 
-Als nächstes: [Adelaide - Zeit zum Entspannen](../day_15)
+Als nächstes: [Adelaide - Zeit zum Entspannen]({{< ref "../day_15/index.de.md" >}})

@@ -4,9 +4,9 @@ date: 2013-10-23 12:11:31
 title: King's Canyon - A thunderstorm in the evening
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous: [Alice Springs - Refreshing, getting back on track](../day_07)
+Previous: [Alice Springs - Refreshing, getting back on track]({{< ref "../day_07/index.en.md" >}})
 
 ![](images/orion.jpg)
 
@@ -35,4 +35,4 @@ wonderful!
 
 We got back to the campsite because the next day we conquered the canyon!
 
-Next: [Uluru - A rock that still impresses](../day_09)
+Next: [Uluru - A rock that still impresses]({{< ref "../day_09/index.en.md" >}})

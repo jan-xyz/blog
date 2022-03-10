@@ -4,9 +4,9 @@ date: 2013-10-07 04:09:43
 title: To Litchfield - The Wicked Experience
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous: [Darwin - Mindil Beach](../day_02)
+Previous: [Darwin - Mindil Beach]({{< ref "../day_02/index.en.md" >}})
 
 During our planing before the trip it took a really long time to find a camper
 that suits our needs. The biggest constrain was budget since we all are
@@ -58,4 +58,4 @@ night sky.
 
 ![](images/sky.jpg)
 
-Next: [In Litchfield – Of Waterfalls and basking](../day_04)
+Next: [In Litchfield – Of Waterfalls and basking]({{< ref "../day_04/index.en.md" >}})

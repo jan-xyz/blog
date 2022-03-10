@@ -4,9 +4,9 @@ date: 2016-02-13 14:36:24
 title: Kangaroo Island - Erwachen im Paradies
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.de.md" >}})
 
-Vorher: [Kangaroo Island - Aufgewühlte See, ein majestätischer Anblick](../day_12)
+Vorher: [Kangaroo Island - Aufgewühlte See, ein majestätischer Anblick]({{< ref "../day_12/index.de.md" >}})
 
 Erst als wir am morgen aufwachten ist uns aufgefallen, dass unsere
 Campingstelle neben einer riesigen Grasfläche mit Kängurus uns Wallabies war.
@@ -41,4 +41,4 @@ alles war schon fast zu entspannt.
 ![](images/meadow2.jpg)
 ![](images/creek2.jpg)
 
-Als Nächstes: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](../day_14)
+Als Nächstes: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen]({{< ref "../day_14/index.de.md" >}})

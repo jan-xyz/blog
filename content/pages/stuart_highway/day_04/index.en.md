@@ -4,9 +4,9 @@ date: 2013-10-08 12:53:44
 title: In Litchfield – Of Waterfalls and Basking
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous: [To Litchfield – The Wicked Experience](../day_03)
+Previous: [To Litchfield – The Wicked Experience]({{< ref "../day_03/index.en.md" >}})
 
 The first night camping was surprisingly easy. Everyone woke up more or less on
 time. Some of us had difficulties keeping the time that we decided on the night
@@ -107,4 +107,4 @@ that later and were even more happy.
 
 ![](images/birds.jpg)
 
-Next: [Mataranka – Swimming with crocodiles](../day_05)
+Next: [Mataranka – Swimming with crocodiles]({{< ref "../day_05/index.en.md" >}})

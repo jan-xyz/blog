@@ -23,34 +23,49 @@ sights I have ever seen. It was filled with joy, anger, fatigue, activity,
 boredom and excitement. I learned a lot for the future and had enlightening
 discussions with people I met.
 
-Day 1: [Darwin - Tasting Crocodile](/en/pages/stuart_highway/day_01/)
+Day 1: [Darwin - Tasting Crocodile](
+{{< ref "/content/pages/stuart_highway/day_01/index.en.md" >}})
 
-Day 2: [Darwin - Mindil Beach](/en/pages/stuart_highway/day_02)
+Day 2: [Darwin - Mindil Beach](
+{{< ref "/content/pages/stuart_highway/day_02/index.en.md" >}})
 
-Day 3: [To Litchfield - The Wicked Experience](/en/pages/stuart_highway/day_03)
+Day 3: [To Litchfield - The Wicked Experience](
+{{< ref "/content/pages/stuart_highway/day_03/index.en.md" >}})
 
-Day 4: [In Litchfield - Of Waterfalls and basking](/en/pages/stuart_highway/day_04)
+Day 4: [In Litchfield - Of Waterfalls and basking](
+{{< ref "/content/pages/stuart_highway/day_04/index.en.md" >}})
 
-Day 5: [Mataranka - Swimming with crocodiles](/en/pages/stuart_highway/day_05)
+Day 5: [Mataranka - Swimming with crocodiles](
+{{< ref "/content/pages/stuart_highway/day_05/index.en.md" >}})
 
-Day 6: [Devil's Marbles - A day in the car to see the sunset](/en/pages/stuart_highway/day_06)
+Day 6: [Devil's Marbles - A day in the car to see the sunset](
+{{< ref "/content/pages/stuart_highway/day_06/index.en.md" >}})
 
-Day 7: [Alice Springs - Refreshing, getting back on track](/en/pages/stuart_highway/day_07)
+Day 7: [Alice Springs - Refreshing, getting back on track](
+{{< ref "/content/pages/stuart_highway/day_07/index.en.md" >}})
 
-Day 8: [King's Canyon - A thunderstorm in the evening](/en/pages/stuart_highway/day_08)
+Day 8: [King's Canyon - A thunderstorm in the evening](
+{{< ref "/content/pages/stuart_highway/day_08/index.en.md" >}})
 
-Day 9: [Uluru - A rock that still impresses](/en/pages/stuart_highway/day_09)
+Day 9: [Uluru - A rock that still impresses](
+{{< ref "/content/pages/stuart_highway/day_09/index.en.md" >}})
 
-Day 10: [Coober Pedy - Precious stones that rule the world](/en/pages/stuart_highway/day_10)
+Day 10: [Coober Pedy - Precious stones that rule the world](
+{{< ref "/content/pages/stuart_highway/day_10/index.en.md" >}})
 
-Day 11: [Adelaide - A break, some sleep, repacking](/en/pages/stuart_highway/day_11)
+Day 11: [Adelaide - A break, some sleep, repacking](
+{{< ref "/content/pages/stuart_highway/day_11/index.en.md" >}})
 
-Day 12: [Kangaroo Island - A rough sea, a majestic view](/en/pages/stuart_highway/day_12)
+Day 12: [Kangaroo Island - A rough sea, a majestic view](
+{{< ref "/content/pages/stuart_highway/day_12/index.en.md" >}})
 
-Day 13: [Kangaroo Island - Waking up in paradise](/en/pages/stuart_highway/day_13)
+Day 13: [Kangaroo Island - Waking up in paradise](
+{{< ref "/content/pages/stuart_highway/day_13/index.en.md" >}})
 
-Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](/en/pages/stuart_highway/day_14)
+Day 14: [Kangaroo Island - Kangaroo, Koala, Lighthouse, Seal & Rocks](
+{{< ref "/content/pages/stuart_highway/day_14/index.en.md" >}})
 
-Day 15: [Adelaide - Time to relax](/en/pages/stuart_highway/day_15)
+Day 15: [Adelaide - Time to relax](
+{{< ref "/content/pages/stuart_highway/day_15/index.en.md" >}})
 
 ![Map of the road trip](images/map.png)

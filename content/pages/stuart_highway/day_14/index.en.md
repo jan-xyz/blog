@@ -4,9 +4,9 @@ date: 2014-06-24 01:09:09
 title: Kangaroo Island – Kangaroo, Koala, Lighthouse, Seal & Rocks
 ---
 
-[Navigation](/posts/30-der-stuart-highway/)
+[Navigation]({{< ref "/content/posts/travel/30-der-stuart-highway/index.en.md" >}})
 
-Previous:  [Kangaroo Island – Waking up in paradise](../day_13)
+Previous:  [Kangaroo Island – Waking up in paradise]({{< ref "../day_13/index.en.md" >}})
 
 Today was sightseeing again. We went to see the famous landmarks of Kangaroo
 Island: The lighthouse, the seals, the remarkable rocks and we found a koala.
@@ -40,4 +40,4 @@ through the bush.
 
 One thing was for sure: we now knew why it was called Kangaroo Island.
 
-Next: [Adelaide – Time to relax](../day_15)
+Next: [Adelaide – Time to relax]({{< ref "../day_15/index.en.md" >}})
