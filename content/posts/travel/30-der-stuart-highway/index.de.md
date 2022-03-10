@@ -3,8 +3,7 @@ author: Jan
 date: '2013-10-06'
 title: Der Stuart Highway
 ---
-![](images/road.jpg)
-
+![Header image](images/road.jpg)
 
 Es war ein regnerischer Samstag morgen in Adelaide. Zwei Männer warten in einem
 Auto im Stadtzentrum von Adelaide, vor den Türen der Studentenunterkunft der
@@ -54,4 +53,4 @@ Tag 14: [Kangaroo Island - Känguru, Koala, Leuchtturm, Robben & Felsen](/pages/
 
 Tag 15: [Adelaide - Zeit zum Entspannen](/pages/stuart_highway/day_15)
 
-![](images/map.png)
+![Karte vom Roadtrip](images/map.png)
