@@ -34,10 +34,6 @@ timeout = "120s"
     name   = "Startseite"
     weight = 10
     [[languages.de.menu.main]]
-    url    = "/posts/travel/"
-    name   = "Reisen"
-    weight = 11
-    [[languages.de.menu.main]]
     url    = "/posts/tech/"
     name   = "Tech"
     weight = 12
@@ -50,10 +46,6 @@ timeout = "120s"
     url    = "/en/"
     name   = "Home"
     weight = 10
-    [[languages.en.menu.main]]
-    url    = "/en/posts/travel/"
-    name   = "Travel"
-    weight = 11
     [[languages.en.menu.main]]
     url    = "/en/posts/tech/"
     name   = "Tech"
