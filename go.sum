@@ -2,6 +2,3 @@ github.com/jan-xyz/hugo-module-img-srcset v1.3.0 h1:fC1d9yPFCMxfEUsweQANvGJOHKmG
 github.com/jan-xyz/hugo-module-img-srcset v1.3.0/go.mod h1:qblCvBIXUfSZ7q+UGdA2xcefkQ+7rba9m6Viuqh7cO0=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 h1:iPc5eu4EV8YZEOh1WsTqLcQmqj96TbqI+BGpBD4a5lo=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
-github.com/theNewDynamic/gohugo-theme-ananke v2.6.6+incompatible h1:ZJYPPkCsz8Xggtujyj6pPP8eAPtsa4zpnP7HAWrX92E=
-github.com/theNewDynamic/gohugo-theme-ananke v2.6.6+incompatible/go.mod h1:RlzLLao82tupbQFWEZtV9ibVqr9+2WYw31sCghz3n3Y=
-github.com/theNewDynamic/gohugo-theme-ananke v2.9.1+incompatible/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
