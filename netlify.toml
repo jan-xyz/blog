@@ -3,8 +3,8 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [build.environment]
-GO_VERSION = "1.17"
-HUGO_VERSION = "0.93.3"
+GO_VERSION = "1.20"
+HUGO_VERSION = "0.111.3"
 
 [context.production.environment]
 HUGO_ENV = "production"
