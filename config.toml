@@ -18,7 +18,7 @@ timeout = "120s"
   [[params.ananke_socials]]
   name = "mastodon"
   url = "https://det.social/@janxyz"
-  rel = "me noopener"
+  rel = "me"
   [[params.ananke_socials]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/jan-steinke-b5b3a346/"
