@@ -1,19 +1,12 @@
 baseURL = "https://blog.jan-steinke.de"
 languageCode = "de-de"
 title = "Eine weitere Selbstdarstellung"
-theme = [ "github.com/jan-xyz/hugo-module-img-srcset", "github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = [ "github.com/jan-xyz/hugo-module-img-srcset", "github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 DefaultContentLanguage = "de"
 timeout = "120s"
 
 [pagination]
 pagerSize = 9
-
-[module]
-[[module.imports]]
-disable = false
-ignoreConfig = false
-ignoreImports = false
-path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
 [params]
   site_logo = "/img/logo.svg"
