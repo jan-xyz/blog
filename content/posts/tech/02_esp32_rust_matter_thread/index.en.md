@@ -44,6 +44,14 @@ Crucial Libraries:
 
 - **MCU: deep sleep vs light sleep.** On the C6, deep sleep is a full reboot — only a timer stays powered — so everything has to live in flash. Measured ~0.12 mA at the cell on this board (the chip alone is ~7 µA; the boost converter probably eats the rest). Light sleep keeps RAM but costs 35–180 µA, which is simply the wrong tool for a LIT device — rule of thumb: deep sleep *is* LIT. And while awake the board pulls ~100 mA at the cell, so every millisecond of awake time is worth ~25x a millisecond of sleep.
 
+And here's what that actually looks like on a real cell — this is the voltage of a single AA over several days at 900 s sleep cycles with a 5 s active poll (you can see the day/night cycles; the spikes are me flashing over USB-C):
+
+![Cell voltage over several days](images/battery-voltage-discharge.png "AA cell voltage over several days at 900 s sleep cycles with a 5 s active poll; day (flatter) and night (steeper) cycles visible, spikes are USB-C flashing")
+
+Once it settled on the 6 h LIT interval, the reported voltage in Home Assistant looked like this — flat steps, barely any movement per day, which is where the >1 year estimate comes from:
+
+![Cell voltage as reported in Home Assistant](images/battery-voltage-home-assistant.png "cell voltage as reported to Home Assistant over two days at the 6 h LIT interval")
+
 ## What's next
 
 - At some point I would like to add OTA updates, but I am not sure if I will actually push that. It will require some more grease around having enough storage and things. And right now it is good enough, and I am happy I got it into a working state.
