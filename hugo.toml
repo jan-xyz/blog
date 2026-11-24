@@ -8,9 +8,18 @@ timeout = "120s"
 [pagination]
 pagerSize = 9
 
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
 [params]
   site_logo = "/img/logo.svg"
   show_reading_time = true
+
+[params.ananke]
+custom_css = [ "dark.css" ]
+
+[params.ananke.header]
+navigation = [ [ "logo" ], [ "languages", "menu", "social" ], [ "search" ] ]
 
 [params.ananke.social.follow]
 networks = [ "twitter", "github", "mastodon", "linkedin" ]

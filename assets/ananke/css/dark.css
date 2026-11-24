@@ -1,0 +1,79 @@
+/* Dark mode, driven purely by the OS preference. Bundled through
+   [params.ananke] custom_css, so it lands after the theme stylesheet
+   and wins at equal specificity. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body,
+  .bg-near-white {
+    background-color: #14171c;
+  }
+
+  .bg-white {
+    background-color: #1d2129;
+  }
+
+  .bg-light-gray {
+    background-color: #232833;
+  }
+
+  .bg-moon-gray {
+    background-color: #2a303c;
+  }
+
+  .mid-gray {
+    color: #c3cad4;
+  }
+
+  .gray {
+    color: #8b949e;
+  }
+
+  .light-gray {
+    color: #9aa4b2;
+  }
+
+  .black {
+    color: #e8ecf1;
+  }
+
+  .navy {
+    color: #9ec1ff;
+  }
+
+  .blue,
+  .nested-links a {
+    color: #7aa7f7;
+  }
+
+  .nested-links a:hover,
+  .nested-links a:focus {
+    color: #aecbff;
+  }
+
+  .b--moon-gray,
+  .b--light-gray {
+    border-color: #3a4150;
+  }
+
+  .lh-copy blockquote {
+    border-left-color: #3a4150;
+  }
+
+  hr {
+    border-color: #3a4150;
+  }
+
+  /* Pagefind search UI */
+  .ananke-search {
+    --pagefind-ui-scale: 0.85;
+    --pagefind-ui-primary: #7aa7f7;
+    --pagefind-ui-text: #e8ecf1;
+    --pagefind-ui-background: #1d2129;
+    --pagefind-ui-border: #3a4150;
+    --pagefind-ui-tag: #232833;
+    --pagefind-ui-border-radius: 6px;
+  }
+}

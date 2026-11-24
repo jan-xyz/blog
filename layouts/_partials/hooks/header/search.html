@@ -1,0 +1,9 @@
+{{- /*
+  Header component: Pagefind search box.
+  The index is generated after the Hugo build: `pagefind --site public` (see netlify.toml).
+*/ -}}
+{{- $search := resources.Get "js/search.js" | minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<div id="search" class="ananke-search"></div>
+<script src="/pagefind/pagefind-ui.js" defer></script>
+<script src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}" defer></script>
