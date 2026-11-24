@@ -1,0 +1,3 @@
+# Serve the blog only on its canonical host; redirect the apex domain.
+https://jan-steinke.de   https://blog.jan-steinke.de/  301!
+https://jan-steinke.de/* https://blog.jan-steinke.de/:splat  301!
