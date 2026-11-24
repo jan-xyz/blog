@@ -29,24 +29,23 @@ Sensors / inputs:
 - User button on GPIO2 (active low)
 - Three status LEDs on GPIO18/19/20 (yellow/green/red)
 
-Libraries:
-- [rs-matter](https://github.com/project-chip/rs-matter) + [rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy) (git master, pinned rev — the ICD/SED work is merged but unreleased): Matter stack, Thread driver with the ICD power-mode state machine, BLE via trouble
-- [esp-hal](https://github.com/esp-rs/esp-hal) ~1.2, esp-rtos 0.4, [esp-radio](https://github.com/esp-rs/esp-radio) 1.0.0-beta.1 (802.15.4 Thread + BLE coexistence), esp-bootloader-esp-idf
-- embassy-executor / -time / -futures / -sync (async runtime)
-- sequential-storage + embedded-storage-async (Matter fabric/session persistence in flash)
-- esp-println / esp-backtrace / esp-alloc, log, static_cell, portable-atomic
+Crucial Libraries:
+- [rs-matter](https://github.com/project-chip/rs-matter)
+- [rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+- [esp-hal](https://github.com/esp-rs/esp-hal)
+- [esp-radio](https://github.com/esp-rs/esp-radio)(802.15.4 Thread + BLE support)
 
 ## What I learned
 
-**Matter basics: commissioning via BLE.** A device joins the fabric over BLE while Thread comes up alongside it (concurrent commissioning), and after that everything rides on Thread/IPv6. With the test credentials (VID `0xFFF1`, PID `0x8010`) every ecosystem shows an "uncertified device" warning — expected, harmless. Fabrics and sessions persist in flash via `sequential-storage`, so a deep-sleep reboot comes back as the same commissioned device.
+- **Matter basics: commissioning via BLE.** The device joins the fabric over BLE while Thread comes up in parallel, and from then on everything rides on Thread/IPv6. Because I use the test credentials (VID `0xFFF1`, PID `0x8010`), every ecosystem shows an "uncertified device" warning — expected, just ignore it. Fabrics are persisted in flash (`sequential-storage`), so even a deep-sleep boot comes back as the same commissioned device.
 
-**Thread basics: what bit us.** Debugging with ivmarkov on the ESP32-H2 first ([#13](https://github.com/sysgrok/rs-matter-embassy/issues/13)), then on the C6: BLE advertisements never went on air in concurrent-commissioning mode ([#82](https://github.com/sysgrok/rs-matter-embassy/issues/82)) — that needed power-domain management in `esp-radio`/`esp-hal` ([esp-hal#6406](https://github.com/esp-rs/esp-hal/pull/6406)), because BLE and Thread share the radio and BLE must be able to come and go. SED support needed OpenThread changes ([esp-rs/openthread#121](https://github.com/esp-rs/openthread/pull/121), [#122](https://github.com/esp-rs/openthread/pull/122) for CSL on nRF). We debugged it with defmt logs over USB plus a Thread sniffer — the logs in [#84](https://github.com/sysgrok/rs-matter-embassy/issues/84) show the check-in being sent before the Thread network and SRP lookup were up, which was racy in Home Assistant.
+- **Thread basics: the issues we hit and how we debugged them.** First the ESP32-H2, together with ivmarkov ([#13](https://github.com/sysgrok/rs-matter-embassy/issues/13)); then on the C6: BLE advertisements never went on air in concurrent commissioning mode ([#82](https://github.com/sysgrok/rs-matter-embassy/issues/82)). Turned out BLE and Thread share the radio, and BLE has to be powered down properly in between — that needed power-domain work in esp-radio/esp-hal ([esp-hal#6406](https://github.com/esp-rs/esp-hal/pull/6406)). SED support needed OpenThread patches on top ([openthread#121](https://github.com/esp-rs/openthread/pull/121), [#122](https://github.com/esp-rs/openthread/pull/122)). We debugged with defmt logs over USB plus a sniffer. The funniest bug: the logs in [#84](https://github.com/sysgrok/rs-matter-embassy/issues/84) show the Check-In being sent before Thread and the SRP lookup were even up — which is exactly why it behaved so racy in Home Assistant.
 
-**Protocol: SED, SIT vs LIT.** A Sleepy End Device tells its parent it keeps its receiver off and polls for queued frames. SIT (Short Idle Time, ≤ 15 s) suits actuators you expect to react; LIT (Long Idle Time, minutes) suits sensors like this one, where the controller registers for Check-Ins. The catch: LIT only deep-sleeps if the controller actually subscribes to check-ins — Google/Apple didn't support it yet, Samsung was beta-only, Home Assistant had a bug — so the device silently falls back to SIT and burns power.
+- **Protocol: SED, SIT vs LIT.** A Sleepy End Device basically tells its parent "I'm asleep, buffer my stuff" and polls for it. SIT (idle ≤ 15 s) is for things that should react fast; LIT (idle of minutes) is for sensors like this one, where the controller subscribes to Check-Ins. But LIT only really deep-sleeps if the controller plays along — Google/Apple didn't support it yet, Samsung was beta-only, Home Assistant had a bug — otherwise the device silently falls back to SIT and burns battery.
 
-**MCU: deep sleep vs light sleep.** On the ESP32-C6, deep sleep is a full chip reboot (only a timer stays powered), so everything must live in flash — it measures ~0.12 mA at the cell on this carrier (the chip itself is ~7 µA; the boost converter dominates). Light sleep keeps RAM but costs 35–180 µA, which is pointless for a LIT device: deep sleep == LIT, and it's only worth it because wake-ups are rare. Awake, the board pulls ~100 mA at the cell, so shaving the awake window matters ~25x more than shaving sleep current.
+- **MCU: deep sleep vs light sleep.** On the C6, deep sleep is a full reboot — only a timer stays powered — so everything has to live in flash. Measured ~0.12 mA at the cell on this board (the chip alone is ~7 µA; the boost converter eats the rest). Light sleep keeps RAM but costs 35–180 µA, which is simply the wrong tool for a LIT device — rule of thumb: deep sleep *is* LIT. And while awake the board pulls ~100 mA at the cell, so every millisecond of awake time is worth ~25x a millisecond of sleep.
 
-Setting up something new is now trivial: `rustup` + `espup` + `espflash` and one `cargo run` builds and flashes — no IDE, no SDK installer.
+Setting up something new is now trivial: `rustup`, `espup`, `espflash`, one `cargo run` builds and flashes — no IDE, no SDK installer.
 
 
 
