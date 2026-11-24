@@ -1,6 +1,11 @@
 /* Dark mode, driven purely by the OS preference. Bundled through
    [params.ananke] custom_css, so it lands after the theme stylesheet
-   and wins at equal specificity. */
+   and wins at equal specificity.
+
+   Scheme B "blue slate", derived from the light ramp
+   (#f4f4f4 bg / #fff cards / #555 text / #00449e links).
+   Font colors are contrast-tuned for dark surfaces: body ~13:1,
+   muted text ~8.6:1 (WCAG AAA), headings near-white. */
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
@@ -8,62 +13,62 @@
 
   body,
   .bg-near-white {
-    background-color: #14171c;
+    background-color: #12151b;
   }
 
   .bg-white {
-    background-color: #1d2129;
+    background-color: #1b212a;
   }
 
   .bg-light-gray {
-    background-color: #232833;
+    background-color: #262d38;
   }
 
   .bg-moon-gray {
-    background-color: #2a303c;
+    background-color: #2b323e;
   }
 
   .mid-gray {
-    color: #c3cad4;
+    color: #d5dce4;
   }
 
-  .gray {
-    color: #8b949e;
+  .gray,
+  .silver,
+  .light-gray,
+  .dark-gray {
+    color: #a8b3c1;
   }
 
-  .light-gray {
-    color: #9aa4b2;
-  }
-
-  .black {
-    color: #e8ecf1;
+  .black,
+  .near-black {
+    color: #f2f5f9;
   }
 
   .navy {
-    color: #9ec1ff;
+    color: #a8c7fa;
   }
 
   .blue,
   .nested-links a {
-    color: #7aa7f7;
+    color: #8ab4f8;
   }
 
   .nested-links a:hover,
   .nested-links a:focus {
-    color: #aecbff;
+    color: #b3d0ff;
   }
 
   .b--moon-gray,
   .b--light-gray {
-    border-color: #3a4150;
+    border-color: #333c49;
   }
 
   .lh-copy blockquote {
-    border-left-color: #3a4150;
+    border-left-color: #333c49;
   }
 
   hr {
-    border-color: #3a4150;
+    border-color: #333c49;
   }
 
   /* Search modal */
@@ -72,12 +77,12 @@
   }
 
   .ananke-search-panel {
-    background: #1d2129;
-    color: #e8ecf1;
+    background: #1b212a;
+    color: #e6ebf2;
   }
 
   #search mark {
-    background-color: rgba(122, 167, 247, 0.35);
+    background-color: rgba(138, 180, 248, 0.32);
     color: #f2f7ff;
   }
 
@@ -86,11 +91,11 @@
      loaded after the theme bundle, so lower specificity loses. */
   #search .pagefind-ui {
     --pagefind-ui-scale: 0.9;
-    --pagefind-ui-primary: #7aa7f7;
-    --pagefind-ui-text: #e8ecf1;
-    --pagefind-ui-background: #1d2129;
-    --pagefind-ui-border: #3a4150;
-    --pagefind-ui-tag: #232833;
+    --pagefind-ui-primary: #8ab4f8;
+    --pagefind-ui-text: #e6ebf2;
+    --pagefind-ui-background: #1b212a;
+    --pagefind-ui-border: #333c49;
+    --pagefind-ui-tag: #262d38;
     --pagefind-ui-border-radius: 6px;
   }
 }
