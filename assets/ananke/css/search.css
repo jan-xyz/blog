@@ -53,8 +53,7 @@
 
 /* Search-term highlighting. Pagefind resets <mark> to the UA default
    (yellow), which clashes with the theme; tint it with the link color. */
-.pagefind-ui__result mark,
-.pagefind-ui__result-excerpt mark {
+#search mark {
   background-color: rgba(53, 126, 221, 0.25);
   color: inherit;
   border-radius: 2px;

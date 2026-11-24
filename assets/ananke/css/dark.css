@@ -76,14 +76,15 @@
     color: #e8ecf1;
   }
 
-  .pagefind-ui__result mark,
-  .pagefind-ui__result-excerpt mark {
+  #search mark {
     background-color: rgba(122, 167, 247, 0.35);
     color: #f2f7ff;
   }
 
-  /* Pagefind search UI */
-  .ananke-search {
+  /* Pagefind search UI. Vars must be set on .pagefind-ui itself with an ID
+     selector: pagefind-ui.css sets its own defaults on .pagefind-ui and is
+     loaded after the theme bundle, so lower specificity loses. */
+  #search .pagefind-ui {
     --pagefind-ui-scale: 0.9;
     --pagefind-ui-primary: #7aa7f7;
     --pagefind-ui-text: #e8ecf1;
