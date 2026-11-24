@@ -1,7 +1,7 @@
 baseURL = "https://blog.jan-steinke.de"
-languageCode = "de-de"
+locale = "de-de"
 title = "Eine weitere Selbstdarstellung"
-theme = [ "github.com/jan-xyz/hugo-module-img-srcset", "github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme = [ "github.com/jan-xyz/hugo-module-img-srcset", "github.com/gohugo-ananke/ananke/v2"]
 DefaultContentLanguage = "de"
 timeout = "120s"
 
@@ -11,26 +11,29 @@ pagerSize = 9
 [params]
   site_logo = "/img/logo.svg"
   show_reading_time = true
-  [[params.ananke_socials]]
-  name = "twitter"
-  url = "https://twitter.com/janxyz"
-  [[params.ananke_socials]]
-  name = "github"
-  url = "https://github.com/jan-xyz"
-  [[params.ananke_socials]]
-  name = "mastodon"
-  url = "https://det.social/@janxyz"
-  rel = "me"
-  [[params.ananke_socials]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/jan-steinke-b5b3a346/"
+
+[params.ananke.social.follow]
+networks = [ "twitter", "github", "mastodon", "linkedin" ]
+
+[params.ananke.social.twitter]
+username = "janxyz"
+
+[params.ananke.social.github]
+username = "jan-xyz"
+
+[params.ananke.social.mastodon]
+profilelink = "https://det.social/@janxyz"
+rel = "me"
+
+[params.ananke.social.linkedin]
+profilelink = "https://www.linkedin.com/in/jan-steinke-b5b3a346/"
 
 [languages]
   [languages.de]
     title = "Eine weitere Selbstdarstellung"
     weight = 1
     copyright = "alles meins"
-    languageName = "Deutsch"
+    label = "Deutsch"
     [[languages.de.menu.main]]
     url    = "/de/"
     name   = "Startseite"
@@ -43,7 +46,7 @@ pagerSize = 9
     title = "Just another grandstanding"
     weight = 2
     copyright = "Everything is mine"
-    languageName = "English"
+    label = "English"
     [[languages.en.menu.main]]
     url    = "/en/"
     name   = "Home"
