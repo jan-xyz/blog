@@ -1,0 +1,62 @@
+/* Search modal: icon button in the header opens an overlay, so results
+   never reflow the page. Bundled via [params.ananke] custom_css. */
+
+.ananke-search-toggle {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem;
+  border: 0;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.ananke-search-toggle svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: currentColor;
+}
+
+.ananke-search-open {
+  overflow: hidden;
+}
+
+.ananke-search-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+}
+
+.ananke-search-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.ananke-search-panel {
+  position: relative;
+  max-width: 44rem;
+  margin: 12vh 1rem 0;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+  max-height: 72vh;
+  overflow: auto;
+}
+
+@media (min-width: 60em) {
+  .ananke-search-panel {
+    margin: 12vh auto 0;
+  }
+}
+
+/* Search-term highlighting. Pagefind resets <mark> to the UA default
+   (yellow), which clashes with the theme; tint it with the link color. */
+.pagefind-ui__result mark,
+.pagefind-ui__result-excerpt mark {
+  background-color: rgba(53, 126, 221, 0.25);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}

@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON" ]
   show_reading_time = true
 
 [params.ananke]
-custom_css = [ "dark.css" ]
+custom_css = [ "search.css", "dark.css" ]
 
 [params.ananke.header]
 navigation = [ [ "logo" ], [ "languages", "menu", "social" ], [ "search" ] ]

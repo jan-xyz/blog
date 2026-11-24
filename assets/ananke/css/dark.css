@@ -66,9 +66,25 @@
     border-color: #3a4150;
   }
 
+  /* Search modal */
+  .ananke-search-backdrop {
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .ananke-search-panel {
+    background: #1d2129;
+    color: #e8ecf1;
+  }
+
+  .pagefind-ui__result mark,
+  .pagefind-ui__result-excerpt mark {
+    background-color: rgba(122, 167, 247, 0.35);
+    color: #f2f7ff;
+  }
+
   /* Pagefind search UI */
   .ananke-search {
-    --pagefind-ui-scale: 0.85;
+    --pagefind-ui-scale: 0.9;
     --pagefind-ui-primary: #7aa7f7;
     --pagefind-ui-text: #e8ecf1;
     --pagefind-ui-background: #1d2129;
