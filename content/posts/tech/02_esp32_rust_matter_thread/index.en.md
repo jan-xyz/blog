@@ -1,9 +1,56 @@
 ---
 author: Jan
 date: '2026-11-24'
-title: 'Matter over Thread in Rust on the XIAO ESP32-C6: a battery-powered soil moisture sensor'
+title: 'Matter over Thread in Rust?'
 draft: true
 ---
+
+Yes.
+
+In 2024, I decided to build my own Matter devices to extend my smart home with functionality that I could not get from hardware vendors. I was annoyed by the slow adoption of what I thought was the better smart home standard. It was meant to get support from official systems like Google and Apple home, unlike many of the hobbyist or old-school systems based on Zigbee, or KNX.
+
+I had absolutely no idea where I should start, but I found an the [Matter Arduino library from SiliconLabs](https://github.com/SiliconLabsSoftware/arduino/) and thought Arduino is a great start! I bought the [MGM240P](https://www.sparkfun.com/sparkfun-thing-plus-matter-mgm240p.html) and some sensors for it and got started. Thanks to an amazing [friend of mine](https://dazgupta.com) I was able to get something working within a few days and thought this is easy! I can do this! There was just one caveat: I spend roughly 30 Euros on the device and wanted to make more of these, and for that it had to be cheaper. The dev board I bought was just not going to work.
+
+After a bit of research I stumbled across a fairly new library at the time to [bring matter](https://github.com/project-chip/rs-matter) support to embedded rust. I had already a few years under my belt with Rust and I felt way more comfortable with it then with Arduino or large C++ SDKs like the official matter-library. With some amazing support from the community (Mostly, [ivmarkov's embassy project](https://github.com/sysgrok/rs-matter-embassy)) I made progress. Slowly but steadily he helped me bring my project alive, and improve the library while we're at it. We [debugged issues with ESP32-H2](https://github.com/sysgrok/rs-matter-embassy/issues/13) together, [introduced better Sleepy End-Device support](https://github.com/sysgrok/rs-matter-embassy/issues/84) and in the end made my original goal a reality.
+
+I now have a [battery powered soil moisture sensor](https://www.seeedstudio.com/XIAO-Soil-Sensor-p-6452.html) in my office which cost ~9 Euros per piece. The device should last between 1-2 years on a single AA cell and provide a reading every 6 hours.
+
+The project is very similar to [automatous-io/xiao-soil-moisture-sensor-matter-thread](https://github.com/automatous-io/xiao-soil-moisture-sensor-matter-thread), I took the calibration and voltage reading code from the project as a starting point. I think we both discovered around the same time that the XIAO Soil Moisture Sensor is a great device to port to Matter due to the Thread supporting MCU on the board.
+
+## The Overview
+
+Device: [Seeed XIAO Soil Moisture Sensor kit](https://www.seeedstudio.com/XIAO-Soil-Sensor-p-6452.html) — a capacitive soil probe, three status LEDs, a button and an AA battery holder on a XIAO ESP32-C6 carrier (4 MB flash, external U.FL antenna). ~9 EUR per piece.
+
+MCU: ESP32-C6 (32-bit RISC-V, runs at esp-hal's default 80 MHz preset) with an integrated 802.15.4 radio used for both Thread and BLE.
+
+Sensors / inputs:
+- Capacitive soil moisture probe, read via ADC on GPIO1 with excitation PWM on GPIO21
+- Battery voltage via ADC on GPIO0 (single AA cell behind a TPS61021A boost converter to 3V3)
+- User button on GPIO2 (active low)
+- Three status LEDs on GPIO18/19/20 (yellow/green/red)
+
+Libraries:
+- [rs-matter](https://github.com/project-chip/rs-matter) + [rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy) (git master, pinned rev — the ICD/SED work is merged but unreleased): Matter stack, Thread driver with the ICD power-mode state machine, BLE via trouble
+- [esp-hal](https://github.com/esp-rs/esp-hal) ~1.2, esp-rtos 0.4, [esp-radio](https://github.com/esp-rs/esp-radio) 1.0.0-beta.1 (802.15.4 Thread + BLE coexistence), esp-bootloader-esp-idf
+- embassy-executor / -time / -futures / -sync (async runtime)
+- sequential-storage + embedded-storage-async (Matter fabric/session persistence in flash)
+- esp-println / esp-backtrace / esp-alloc, log, static_cell, portable-atomic
+
+## What I learned
+
+**Matter basics: commissioning via BLE.** A device joins the fabric over BLE while Thread comes up alongside it (concurrent commissioning), and after that everything rides on Thread/IPv6. With the test credentials (VID `0xFFF1`, PID `0x8010`) every ecosystem shows an "uncertified device" warning — expected, harmless. Fabrics and sessions persist in flash via `sequential-storage`, so a deep-sleep reboot comes back as the same commissioned device.
+
+**Thread basics: what bit us.** Debugging with ivmarkov on the ESP32-H2 first ([#13](https://github.com/sysgrok/rs-matter-embassy/issues/13)), then on the C6: BLE advertisements never went on air in concurrent-commissioning mode ([#82](https://github.com/sysgrok/rs-matter-embassy/issues/82)) — that needed power-domain management in `esp-radio`/`esp-hal` ([esp-hal#6406](https://github.com/esp-rs/esp-hal/pull/6406)), because BLE and Thread share the radio and BLE must be able to come and go. SED support needed OpenThread changes ([esp-rs/openthread#121](https://github.com/esp-rs/openthread/pull/121), [#122](https://github.com/esp-rs/openthread/pull/122) for CSL on nRF). We debugged it with defmt logs over USB plus a Thread sniffer — the logs in [#84](https://github.com/sysgrok/rs-matter-embassy/issues/84) show the check-in being sent before the Thread network and SRP lookup were up, which was racy in Home Assistant.
+
+**Protocol: SED, SIT vs LIT.** A Sleepy End Device tells its parent it keeps its receiver off and polls for queued frames. SIT (Short Idle Time, ≤ 15 s) suits actuators you expect to react; LIT (Long Idle Time, minutes) suits sensors like this one, where the controller registers for Check-Ins. The catch: LIT only deep-sleeps if the controller actually subscribes to check-ins — Google/Apple didn't support it yet, Samsung was beta-only, Home Assistant had a bug — so the device silently falls back to SIT and burns power.
+
+**MCU: deep sleep vs light sleep.** On the ESP32-C6, deep sleep is a full chip reboot (only a timer stays powered), so everything must live in flash — it measures ~0.12 mA at the cell on this carrier (the chip itself is ~7 µA; the boost converter dominates). Light sleep keeps RAM but costs 35–180 µA, which is pointless for a LIT device: deep sleep == LIT, and it's only worth it because wake-ups are rare. Awake, the board pulls ~100 mA at the cell, so shaving the awake window matters ~25x more than shaving sleep current.
+
+Setting up something new is now trivial: `rustup` + `espup` + `espflash` and one `cargo run` builds and flashes — no IDE, no SDK installer.
+
+
+
+----------------------
 
 Intro stub: I rewrote the C++ firmware for the Seeed XIAO soil moisture kit in
 Rust (`no_std`, embassy, esp-hal, rs-matter-embassy) —
